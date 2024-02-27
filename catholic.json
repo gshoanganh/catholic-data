@@ -1,21 +1,16 @@
-<<<<<<< HEAD
 {
-info:{
-{
-version: 1,
-author: "gshoanganh",
-first: "2024-02-26",
-last: "2024-02-26"
+  "info": {
+    "version": 1,
+    "author": "gshoanganh",
+    "first": "2024-02-26",
+    "last": "2024-02-26",
+    "changed": [
+      "202401",
+      "202402"
+    ]
+  },
+  "_comment1": "lịch theo từng tháng của năm 2024: 1-Lễ buộc; 2-Lễ Trọng; 3-Lễ Kính; 4-Lễ nhớ; mark nếu có thông báo quan trọng",
+  "202402": [
+   
+  ]
 }
-}
-}
-=======
-{
-  "info":{
-      "version": 1,
-      "author": "gshoanganh",
-      "first": "2024-02-26",
-      "last": "2024-02-26"
-  }
-}
->>>>>>> 0064cde6411e73467352c4eb20ee4ff905e41a42

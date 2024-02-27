@@ -1,0 +1,30 @@
+{
+    "version":1,
+    "202402":[
+        {
+            "code": "20240201",
+            "catholicDate": "2024-02-01",
+            "catholicType": 2,
+            "liturgical": "MV",
+            "mark": "Ăn chay, Kiêng thịt",
+            "colorMark": "red",
+            "isSun": false,
+            "notify": "Ngày mai lễ vọng",
+            "name": "Đức Maria, Mẹ Thiên Chúa",
+            "detailId": 1,
+            "book1": "Ds 6: 22-27",
+            "book2": "Gal 4: 4-7",
+            "book3": "Lc 2: 16-21"
+          },
+          {
+            "code": "20240202",
+            "catholicDate": "2024-02-02",
+            "catholicType": 4,
+            "liturgical": "MV",
+            "mark": null,
+            "colorMark": "red",
+            "isSun": false,
+            "notify": null
+          }
+    ]
+}
