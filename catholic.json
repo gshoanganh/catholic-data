@@ -5,12 +5,8 @@
     "first": "2024-02-26",
     "last": "2024-02-26",
     "changed": [
-      "202401",
-      "202402"
+      "2024/202401.json",
+      "2024/202402.json"
     ]
-  },
-  "_comment1": "lịch theo từng tháng của năm 2024: 1-Lễ buộc; 2-Lễ Trọng; 3-Lễ Kính; 4-Lễ nhớ; mark nếu có thông báo quan trọng",
-  "202402": [
-   
-  ]
+  }
 }
