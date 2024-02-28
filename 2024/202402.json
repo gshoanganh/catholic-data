@@ -331,10 +331,10 @@
       },{
         "code": "20240223",
         "catholicDate": "2024-02-23",
-        "catholicType": "",
+        "catholicType": "K",
         "liturgical": "MC",
         "mark": "",
-        "colorMark": "K",
+        "colorMark": "",
         "isSun": false,
         "notify": "",
         "name": "",
@@ -406,7 +406,7 @@
       {
         "code": "20240228",
         "catholicDate": "2024-02-28",
-        "catholicType": "",
+        "catholicType": "B",
         "liturgical": "MC",
         "mark": "",
         "colorMark": "",
@@ -421,7 +421,7 @@
       {
         "code": "20240229",
         "catholicDate": "2024-02-29",
-        "catholicType": "",
+        "catholicType": "B",
         "liturgical": "MC",
         "mark": null,
         "colorMark": null,
