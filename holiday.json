@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "holidays": [
+        {
+            "code": "2024-03-02",
+            "again": null,
+            "nameVi": "Thích thì nghỉ thôi",
+            "markColor": "red",
+            "background":"gray",
+            "lunar": false
+        },
+        {
+            "code": "2024-09-01",
+            "again": null,
+            "nameVi": "Lễ Quốc khánh",
+            "markColor": "red",
+            "background":"gray",
+            "lunar": false
+        }
+    ]
+}
