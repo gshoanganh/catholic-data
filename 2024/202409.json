@@ -1,0 +1,271 @@
+[
+    {
+      "code": "20240901",
+      "type": "T",
+      "season": "TN-22",
+      "clothes": "X",
+      "name": "Chúa Nhật thứ Hai Mươi-Hai Mùa Quanh Năm",
+      "des": 0,
+      "book": "Đnl 4:1-2,6-8; Tv 15:2-3,3-4,4-5; Gc 1:17-18,21-22,27; Mc 7:1-8,14-15,21-23"
+    },
+    {
+      "code": "20240902",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 2:1-5; Tv 119:97,98,99,100,101,102; Lc 4:16-30"
+    },
+    {
+      "code": "20240903",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Tr",
+      "name": "Thánh Grêgôriô Cả, Ghts",
+      "des": 0,
+      "book": "Cr 2:10-16; Tv 145:8-9,10-11,12-13,13-14; Lc 4:31-37"
+    },
+    {
+      "code": "20240904",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 3:1-9; Tv 33:12-13,14-15,20-21; Lc 4:38-44"
+    },
+    {
+      "code": "20240905",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 3:18-23; Tv 24:1-2,3-4,5-6; Lc 5:1-11"
+    },
+    {
+      "code": "20240906",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 4:1-5; Tv 37:3-4,5-6,27-28,39-40; Lc 5:33-39"
+    },
+    {
+      "code": "20240907",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 4:9-15; Tv 145:17-18,19-20,21; Lc 6:1-5"
+    },
+    {
+      "code": "20240908",
+      "type": "T",
+      "season": "TN-23",
+      "clothes": "X",
+      "name": "Chúa Nhật thứ Hai Mươi-Ba Mùa Quanh Năm",
+      "des": 0,
+      "book": "Is 35:4-7; Tv 146:7,8-9,9-10; Gc 2:1-5; Mc 7:31-37"
+    },
+    {
+      "code": "20240909",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Tr",
+      "name": "Thánh Phêrô Claver, Lm",
+      "des": 0,
+      "book": "Cr 5:1-8; Tv 5:5-6,7,12; Lc 6:6-11"
+    },
+    {
+      "code": "20240910",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 6:1-11; Tv 149:1-2,3-4,5-6,9; Lc 6:12-19"
+    },
+    {
+      "code": "20240911",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 7:25-31; Tv 45:11-12,14-15,16-17; Lc 6:20-26"
+    },
+    {
+      "code": "20240912",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 8:1-7,11-13; Tv 139:1-3,13-14,23-24; Lc 6:27-38"
+    },
+    {
+      "code": "20240913",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Tr",
+      "name": "Thánh Gioan Chrysostom, Gmtsht",
+      "des": 0,
+      "book": "Cr 9:16-19,22-27; Tv 84:3,4,5-6,8,12; Lc 6:39-42"
+    },
+    {
+      "code": "20240914",
+      "type": "K",
+      "season": "TN",
+      "clothes": "Do",
+      "name": "Tôn Vinh Thánh Giá",
+      "des": 0,
+      "book": "Cr 10:14-22; Tv 116:12-13,17-18; Lc 6:43-49"
+    },
+    {
+      "code": "20240915",
+      "type": "T",
+      "season": "TN-24",
+      "clothes": "X",
+      "name": "Chúa Nhật thứ Hai Mươi-Tư Mùa Quanh Năm",
+      "des": 0,
+      "book": "Is 50:4-9; Tv 116:1-2,3-4,5-6,8-9; Gc 2:14-18; Mc 8:27-35"
+    },
+    {
+      "code": "20240916",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Do",
+      "name": "Thánh Cornelius, Ghtđ và Cyprian, Gmtđ",
+      "des": 0,
+      "book": "Cr 11:17-26,33; Tv 40:7-8,8-9,10,17; Lc 7:1-10"
+    },
+    {
+      "code": "20240917",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 12:12-14,27-31; Tv 100:1-2,3,4,5; Lc 7:11-17"
+    },
+    {
+      "code": "20240918",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 12:31; 1 Cr 13:13; Tv 33:2-3,4-5,12,22; Lc 7:31-35"
+    },
+    {
+      "code": "20240919",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cr 15:1-11; Tv 118:1-2,16-17,28; Lc 7:36-50"
+    },
+    {
+      "code": "20240920",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Do",
+      "name": "Thánh Andrê Kim, Lmtđ, Phaolô Chong, và các Bạn Tử Đạo",
+      "des": 0,
+      "book": "Cr 15:12-20; Tv 17:1,6-7,8,15; Lc 8:1-3"
+    },
+    {
+      "code": "20240921",
+      "type": "K",
+      "season": "TN",
+      "clothes": "Do",
+      "name": "Thánh Mátthêu, Tông Đồ Thánh Sử",
+      "des": 0,
+      "book": "Cr 15:35-37,42-49; Tv 56:10-12,13-14; Lc 8:4-15"
+    },
+    {
+      "code": "20240922",
+      "type": "T",
+      "season": "TN-25",
+      "clothes": "X",
+      "name": "Chúa Nhật thứ Hai Mươi-Năm Mùa Quanh Năm",
+      "des": 0,
+      "book": "Kn 2:12,17-20; Tv 54:3-4,5,6-8; Gc 3:164; Mc 9:30-37"
+    }, {
+      "code": "20240923",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cn 3:27-34; Tv 15:2-3,3-4,5; Lc 8:16-18"
+    },
+    {
+      "code": "20240924",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cn 21:1-6,10-13; Tv 119:12720343544; Lc 8:19-21"
+    },
+    {
+      "code": "20240925",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Cn 30:5-9; Tv 119:29,72,89,101,104,163; Lc 9:1-6"
+    },
+    {
+      "code": "20240926",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Gv 1:2-11; Tv 90:3-4,5-6,12-13,14,17; Lc 9:7-9"
+    },
+    {
+      "code": "20240927",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Tr",
+      "name": "Thánh Vincentê de Phaolô, Lm",
+      "des": 0,
+      "book": "Gv 3:1-11; Tv 144:1-2,3-4; Lc 9:18-22"
+    },
+    {
+      "code": "20240928",
+      "type": "",
+      "season": "TN",
+      "clothes": "X",
+      "name": "",
+      "des": 0,
+      "book": "Gv 11:9-12; Tv 90:3-4,5-6,12-13,14,17; Lc 9:43-45"
+    },
+    {
+      "code": "20240929",
+      "type": "T",
+      "season": "TN-26",
+      "clothes": "X",
+      "name": "Chúa Nhật thứ Hai Mươi-Sáu Mùa Quanh Năm",
+      "des": 0,
+      "book": "Ds 11:25-29; Tv 19:8,10,12-13,14; Gc 5:1-6; Mc 9:38-43,45,47-48"
+    },
+    {
+      "code": "20240930",
+      "type": "N",
+      "season": "TN",
+      "clothes": "Tr",
+      "name": "Thánh Giêrômiô, Lmts",
+      "des": 0,
+      "book": "G 1:6-22; Tv 17:1,2-3,6-7; Lc 9:46-50"
+    }
+  ]
