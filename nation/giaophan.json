@@ -1,0 +1,1036 @@
+[
+    {
+        "code": 1,
+        "name": "TGP. Hà Nội",
+        "items": [
+            {
+                "code": "1.1",
+                "name": "Hạt Chính Tòa"
+            },
+            {
+                "code": "1.2",
+                "name": "Hạt Lý Nhân"
+            },
+            {
+                "code": "1.3",
+                "name": "Hạt Mỹ Đức - Hòa Bình"
+            },
+            {
+                "code": "1.4",
+                "name": "Hạt Nam Định"
+            },
+            {
+                "code": "1.5",
+                "name": "Hạt Phủ Lý"
+            },
+            {
+                "code": "1.6",
+                "name": "Hạt Phú Xuyên"
+            },
+            {
+                "code": "1.7",
+                "name": "Hạt Thanh Oai"
+            }
+        ]
+    },
+    {
+        "code": 2,
+        "name": "GP. Bắc Ninh",
+        "items": [
+            {
+                "code": "2.1",
+                "name": "Hạt Bắc Giang"
+            },
+            {
+                "code": "2.2",
+                "name": "Hạt Bắc Ninh"
+            },
+            {
+                "code": "2.3",
+                "name": "Hạt Nội Bài"
+            },
+            {
+                "code": "2.4",
+                "name": "Hạt Thái Nguyên"
+            },
+            {
+                "code": "2.5",
+                "name": "Hạt Tuyên Quang"
+            },
+            {
+                "code": "2.6",
+                "name": "Hạt Vĩnh Phúc"
+            }
+        ]
+    },
+    {
+        "code": 3,
+        "name": "GP. Bùi Chu",
+        "items": [
+            {
+                "code": "3.1",
+                "name": "Hạt Báo Đáp"
+            },
+            {
+                "code": "3.2",
+                "name": "Hạt Bùi Chu"
+            },
+            {
+                "code": "3.3",
+                "name": "Hạt Đại Đồng"
+            },
+            {
+                "code": "3.4",
+                "name": "Hạt Kiên Chính"
+            },
+            {
+                "code": "3.5",
+                "name": "Hạt Lạc Đạo"
+            },
+            {
+                "code": "3.6",
+                "name": "Hạt Liễu Đề"
+            },
+            {
+                "code": "3.7",
+                "name": "Hạt Ninh Cường"
+            },
+            {
+                "code": "3.8",
+                "name": "Hạt Phú Nhai"
+            },
+            {
+                "code": "3.9",
+                "name": "Hạt Quần Phương"
+            },
+            {
+                "code": "3.10",
+                "name": "Hạt Quỹ Nhất"
+            },
+            {
+                "code": "3.11",
+                "name": "Hạt Thức Hóa"
+            },
+            {
+                "code": "3.12",
+                "name": "Hạt Tương Nam"
+            },
+            {
+                "code": "3.13",
+                "name": "Hạt Tứ Trùng"
+            }
+        ]
+    },
+    {
+        "code": 4,
+        "name": "GP. Hà Tĩnh",
+        "items": [
+            {
+                "code": "4.1",
+                "name": "Hạt Văn Hạnh"
+            },
+            {
+                "code":"4.2",
+                "name":"Hạt Trung Nghĩa"
+            },
+            {
+                "code":"4.3",
+                "name":"Hạt Can Lộc"
+            },
+            {
+                "code":"4.4",
+                "name":"Hạt Nghĩa Yên"
+            },
+            {
+                "code":"4.5",
+                "name":"Hạt Ngàn Sâu"
+            },
+            {
+                "code":"4.6",
+                "name":"Hạt Ngàn Phố"
+            },
+            {
+                "code":"4.7",
+                "name":"Hạt Cẩm Xuyên"
+            },
+            {
+                "code":"4.8",
+                "name":"Hạt Kỳ Anh"
+            },
+            {
+                "code":"4.9",
+                "name":"Hạt Bình Chính"
+            },
+            {
+                "code":"4.10",
+                "name":"Hạt Hòa Ninh"
+            },
+            {
+                "code":"4.11",
+                "name":"Hạt Minh Cầm"
+            },
+            {
+                "code":"4.12",
+                "name":"Hạt Nguồn Son"
+            },
+            {
+                "code":"4.13",
+                "name":"Hạt Tam Tòa"
+            }
+        ]
+    },
+    {
+        "code": 5,
+        "name": "GP. Hải Phòng",
+        "items": [
+            {
+                "code": "5.1",
+                "name": "Hạt Chính Tòa"
+            },
+            {
+                "code": "5.2",
+                "name": "Hạt Nam Am"
+            },
+            {
+                "code": "5.3",
+                "name": "Hạt Mạo Khê"
+            },
+            {
+                "code": "5.4",
+                "name": "Hạt Hòn Gai"
+            },
+            {
+                "code": "5.5",
+                "name": "Hạt Hải Dương"
+            },
+            {
+                "code": "5.6",
+                "name": "Hạt Kẻ Sặt"
+            }
+        ]
+    },
+    {
+        "code": 6,
+        "name": "GP. Hưng Hóa",
+        "items": [
+            {
+                "code": "6.1",
+                "name": "Hạt Sơn Tây"
+            },
+            {
+                "code": "6.2",
+                "name": "Hạt Hà Giang - Tuyên Quang - Đoan Hùng"
+            },
+            {
+                "code": "6.3",
+                "name": "Hạt Hòa Bình - Sơn La - Điện Biên"
+            },
+            {
+                "code": "6.4",
+                "name": "Hạt Yên Bái"
+            },
+            {
+                "code": "6.5",
+                "name": "Hạt Lào Cai - Lai Châu"
+            },
+            {
+                "code": "6.6",
+                "name": "Hạt Nghĩa Lộ"
+            },
+            {
+                "code": "6.7",
+                "name": "Hạt Tây - Nam Phú Thọ"
+            },
+            {
+                "code": "6.8",
+                "name": "Hạt Tây - Bắc Phú Thọ"
+            },
+            {
+                "code": "6.9",
+                "name": "Hạt Đông-Nam Phú Thọ"
+            }
+        ]
+    },
+    {
+        "code": 7,
+        "name": "GP. Lạng Sơn và Cao Bằng",
+        "items": [
+            {
+                "code": "7.1",
+                "name": "Hạt Lạng Sơn"
+            },
+            {
+                "code": "7.2",
+                "name": "Hạt Cao Bằng"
+            }
+        ]
+    },
+    {
+        "code": 8,
+        "name": "GP. Phát Diệm",
+        "items": [
+            {
+                "code": "8.1",
+                "name": "Hạt Bạch Liên"
+            },
+            {
+                "code": "8.2",
+                "name": "Hạt Cách Tâm"
+            },
+            {
+                "code": "8.3",
+                "name": "Hạt Đồng Chưa"
+            },
+            {
+                "code": "8.4",
+                "name": "Hạt Ninh Bình"
+            },
+            {
+                "code": "8.5",
+                "name": "Hạt Phát Diệm"
+            },
+            {
+                "code": "8.6",
+                "name": "Hạt Phúc Nhạc"
+            },
+            {
+                "code": "8.7",
+                "name": "Hạt Tôn Đạo"
+            },
+            {
+                "code": "8.8",
+                "name": "Hạt Văn Hải"
+            },
+            {
+                "code": "8.9",
+                "name": "Hạt Vô Hốt"
+            }
+        ]
+    },
+    {
+        "code": 9,
+        "name": "GP. Thái Bình",
+        "items": [
+            {
+                "code": "9.1",
+                "name": "Hạt Bắc Tiền Hải"
+            },
+            {
+                "code": "9.2",
+                "name": "Hạt Đông Hưng"
+            },
+            {
+                "code": "9.3",
+                "name": "Hạt Đông Hưng Yên"
+            },
+            {
+                "code": "9.4",
+                "name": "Hạt Kiến Xương"
+            },
+            {
+                "code": "9.5",
+                "name": "Hạt Nam Tiền Hải"
+            },
+            {
+                "code": "9.6",
+                "name": "Hạt Tây Hưng Yên"
+            },
+            {
+                "code": "9.7",
+                "name": "Hạt Thái Thụy"
+            },
+            {
+                "code": "9.8",
+                "name": "Hạt Thành Phố"
+            }
+        ]
+    },
+    {
+        "code": 10,
+        "name": "GP. Thanh Hóa",
+        "items": [
+            {
+                "code": "10.1",
+                "name": "Hạt Ba Làng"
+            },
+            {
+                "code": "10.2",
+                "name": "Hạt Chính Tòa"
+            },
+            {
+                "code": "10.3",
+                "name": "Hạt Hữu Lễ"
+            },
+            {
+                "code": "10.4",
+                "name": "Hạt Kẻ Bền"
+            },
+            {
+                "code": "10.5",
+                "name": "Hạt Ngọc Đỉnh"
+            },
+            {
+                "code": "10.6",
+                "name": "Hạt Tam Tổng"
+            },
+            {
+                "code": "10.7",
+                "name": "Hạt Thái Yên"
+            },
+            {
+                "code": "10.8",
+                "name": "Hạt Phong Ý"
+            }
+        ]
+    },
+    {
+        "code": 11,
+        "name": "GP. Vinh",
+        "items": [
+            {
+                "code": "11.1",
+                "name": "Hạt chính tòa Xã Đoài"
+            },
+            {
+                "code": "11.2",
+                "name": "Hạt Cầu Rầm"
+            },
+            {
+                "code": "11.3",
+                "name": "Hạt Phủ Quỳ"
+            },
+            {
+                "code": "11.4",
+                "name": "Hạt Đông Tháp"
+            },
+            {
+                "code": "11.5",
+                "name": "Hạt Bảo Nham"
+            },
+            {
+                "code": "11.6",
+                "name": "Hạt Bột Đà"
+            },
+            {
+                "code": "11.7",
+                "name": "Hạt Vạn Lộc"
+            },
+            {
+                "code": "11.8",
+                "name": "Hạt Nhân Hòa"
+            },
+            {
+                "code": "11.9",
+                "name": "Hạt Cửa Lò"
+            },
+            {
+                "code": "11.10",
+                "name": "Hạt Thuận Nghĩa"
+            },
+            {
+                "code": "11.11",
+                "name": "Hạt Kẻ Dừa"
+            },
+            {
+                "code": "11.12",
+                "name": "Hạt Quy Hậu"
+            },
+            {
+                "code": "11.13",
+                "name": "Hạt Vàng Mai"
+            },
+            {
+                "code": "11.14",
+                "name": "Hạt Dừa Lãng"
+            }
+        ]
+    },
+    {
+        "code": 12,
+        "name": "TGP. Huế",
+        "items": [
+            {
+                "code": "12.1",
+                "name": "Hạt Thành phố Huế"
+            },
+            {
+                "code": "12.2",
+                "name": "Hạt Hương Phú"
+            },
+            {
+                "code": "12.3",
+                "name": "Hạt Hương Quảng Phong"
+            },
+            {
+                "code": "12.4",
+                "name": "Hạt Hải Vân"
+            },
+            {
+                "code": "12.5",
+                "name": "Hạt Quảng Trị"
+            }
+        ]
+    },
+    {
+        "code": 13,
+        "name": "GP. Ban Mê Thuột",
+        "items": [
+            {
+                "code": "13.1",
+                "name": "Hạt Chính Tòa"
+            },
+            {
+                "code": "13.2",
+                "name": "Hạt Mẫu Tâm"
+            },
+            {
+                "code": "13.3",
+                "name": "Hạt Phước Long"
+            },
+            {
+                "code": "13.4",
+                "name": "Hạt Đắk Mil"
+            },
+            {
+                "code": "13.5",
+                "name": "Hạt Buôn Hồ"
+            },
+            {
+                "code": "13.6",
+                "name": "Hạt Giang Sơn"
+            },
+            {
+                "code": "13.7",
+                "name": "Hạt Gia Nghĩa"
+            },
+            {
+                "code": "13.8",
+                "name": "Hạt Đồng Xoài"
+            }
+        ]
+    },
+    {
+        "code": 14,
+        "name": "GP. Đà Nẵng",
+        "items": [
+            {
+                "code": "14.1",
+                "name": "Hạt Đà Nẵng"
+            },
+            {
+                "code": "14.2",
+                "name": "Hạt Hòa Vang"
+            },
+            {
+                "code": "14.3",
+                "name": "Hạt Hội An"
+            },
+            {
+                "code": "14.4",
+                "name": "Hạt Tam Kỳ"
+            },
+            {
+                "code": "14.5",
+                "name": "Hạt Trà Kiệu"
+            }
+        ]
+    },
+    {
+        "code": 15,
+        "name": "GP. Kon Tum",
+        "items": [
+            {
+                "code": "15.1",
+                "name": "Hạt Kon Tum"
+            },
+            {
+                "code": "15.2",
+                "name": "Hạt Đăk Hà"
+            },
+            {
+                "code": "15.3",
+                "name": "Hạt Đăk Mót"
+            },
+            {
+                "code": "15.4",
+                "name": "Hạt Pleiku"
+            },
+            {
+                "code": "15.5",
+                "name": "Hạt An Khê"
+            },
+            {
+                "code": "15.6",
+                "name": "Hạt Ayun Pa"
+            },
+            {
+                "code": "15.7",
+                "name": "Hạt Mang Yang"
+            },
+            {
+                "code": "15.8",
+                "name": "Hạt Chư Păh"
+            },
+            {
+                "code": "15.9",
+                "name": "Hạt Chư Prông"
+            },
+            {
+                "code": "15.10",
+                "name": "Hạt Chư Sê"
+            }
+        ]
+    },
+    {
+        "code": 16,
+        "name": "GP. Nha Trang",
+        "items": [
+            {
+                "code": "16.1",
+                "name": "Hạt Nha Trang"
+            },
+            {
+                "code": "16.2",
+                "name": "Hạt Vạn Ninh"
+            },
+            {
+                "code": "16.3",
+                "name": "Hạt Diên Khánh"
+            },
+            {
+                "code": "16.4",
+                "name": "Hạt Cam Lâm"
+            },
+            {
+                "code": "16.5",
+                "name": "Hạt Cam Ranh"
+            },
+            {
+                "code": "16.6",
+                "name": "Hạt Phan Rang"
+            },
+            {
+                "code": "16.7",
+                "name": "Hạt Ninh Hải"
+            },
+            {
+                "code": "16.8",
+                "name": "Hạt Ninh Phước"
+            },
+            {
+                "code": "16.9",
+                "name": "Hạt Ninh Sơn"
+            }
+        ]
+    },
+    {
+        "code": 17,
+        "name": "GP. Qui Nhơn",
+        "items": [
+            {
+                "code": "17.1",
+                "name": "Hạt Bồng Sơn"
+            },
+            {
+                "code": "17.2",
+                "name": "Hạt Gò Thị"
+            },
+            {
+                "code": "17.3",
+                "name": "Hạt Kim Châu"
+            },
+            {
+                "code": "17.4",
+                "name": "Hạt Mằng Lăng"
+            },
+            {
+                "code": "17.5",
+                "name": "Hạt Quảng Ngãi"
+            },
+            {
+                "code": "17.6",
+                "name": "Hạt Qui Nhơn"
+            },
+            {
+                "code": "17.7",
+                "name": "Hạt Tuy Hòa"
+            }
+        ]
+    },
+    {
+        "code": 18,
+        "name": "TGP. TP Hồ Chí Minh",
+        "items": [
+            {
+                "code": "18.1",
+                "name": "Hạt Bình An"
+            },
+            {
+                "code": "18.2",
+                "name": "Hạt Chí Hòa"
+            },
+            {
+                "code": "18.3",
+                "name": "Hạt Gia Định"
+            },
+            {
+                "code": "18.4",
+                "name": "Hạt Gò Vấp"
+            },
+            {
+                "code": "18.5",
+                "name": "Hạt Hóc Môn"
+            },
+            {
+                "code": "18.6",
+                "name": "Hạt Phú Nhuận"
+            },
+            {
+                "code": "18.7",
+                "name": "Hạt Phú Thọ"
+            },
+            {
+                "code": "18.8",
+                "name": "Hạt Sài Gòn - Chợ Quán"
+            },
+            {
+                "code": "18.9",
+                "name": "Hạt Tân Định"
+            },
+            {
+                "code": "18.10",
+                "name": "Hạt Tân Sơn Nhì"
+            },
+            {
+                "code": "18.11",
+                "name": "Hạt Thủ Đức"
+            },
+            {
+                "code": "18.12",
+                "name": "Hạt Thủ Thiêm"
+            },
+            {
+                "code": "18.13",
+                "name": "Hạt Xóm Chiếu"
+            },
+            {
+                "code": "18.14",
+                "name": "Hạt Xóm Mới"
+            }
+        ]
+    },
+    {
+        "code": 19,
+        "name": "GP. Bà Rịa",
+        "items": [
+            {
+                "code": "19.1",
+                "name": "Hạt Bà Rịa"
+            },
+            {
+                "code": "19.2",
+                "name": "Hạt Long Hương"
+            },
+            {
+                "code": "19.3",
+                "name": "Hạt Bình Giã"
+            },
+            {
+                "code": "19.4",
+                "name": "Hạt Vũng Tàu"
+            },
+            {
+                "code": "19.5",
+                "name": "Hạt Xuyên Mộc"
+            }
+        ]
+    },
+    {
+        "code": 20,
+        "name": "GP. Cần Thơ",
+        "items": [
+            {
+                "code": "20.1",
+                "name": "Hạt Cần Thơ"
+            },
+            {
+                "code": "20.2",
+                "name": "Hạt Vị Thanh"
+            },
+            {
+                "code": "20.3",
+                "name": "Hạt Đại Hải"
+            },
+            {
+                "code": "20.4",
+                "name": "Hạt Sóc Trăng"
+            },
+            {
+                "code": "20.5",
+                "name": "Hạt Trà Lồng"
+            },
+            {
+                "code": "20.6",
+                "name": "Hạt Bạc Liêu"
+            },
+            {
+                "code": "20.7",
+                "name": "Hạt Cà Mau"
+            }
+        ]
+    },
+    {
+        "code": 21,
+        "name": "GP. Đà Lạt",
+        "items": [
+            {
+                "code": "21.1",
+                "name": "Hạt Bảo Lộc"
+            },
+            {
+                "code": "21.2",
+                "name": "Hạt Đơn Dương"
+            },
+            {
+                "code": "21.3",
+                "name": "Hạt Đà Lạt"
+            },
+            {
+                "code": "21.4",
+                "name": "Hạt Đạ Tông"
+            },
+            {
+                "code": "21.5",
+                "name": "Hạt Di Linh"
+            },
+            {
+                "code": "21.6",
+                "name": "Hạt Đức Trọng"
+            },
+            {
+                "code": "21.7",
+                "name": "Hạt Ma Đa Guôi"
+            }
+        ]
+    },
+    {
+        "code": 22,
+        "name": "GP. Long Xuyên",
+        "items": [
+            {
+                "code": "22.1",
+                "name": "Hạt Chợ Mới"
+            },
+            {
+                "code": "22.2",
+                "name": "Hạt Long Xuyên"
+            },
+            {
+                "code": "22.3",
+                "name": "Hạt Rạch Giá"
+            },
+            {
+                "code": "22.4",
+                "name": "Hạt Tân Hiệp"
+            },
+            {
+                "code": "22.5",
+                "name": "Hạt Vĩnh Thạnh"
+            }
+        ]
+    },
+    {
+        "code": 23,
+        "name": "GP. Mỹ Tho",
+        "items": [
+            {
+                "code": "23.1",
+                "name": "Hạt Mỹ Tho"
+            },
+            {
+                "code": "23.2",
+                "name": "Hạt Cái Bè"
+            },
+            {
+                "code": "23.3",
+                "name": "Hạt Tân An"
+            },
+            {
+                "code": "23.4",
+                "name": "Hạt Đức Hòa"
+            },
+            {
+                "code": "23.5",
+                "name": "Hạt Cao Lãnh"
+            },
+            {
+                "code": "23.6",
+                "name": "Hạt Cù Lao Tây"
+            }
+        ]
+    },
+    {
+        "code": 24,
+        "name": "GP. Phan Thiết",
+        "items": [
+            {
+                "code": "24.1",
+                "name": "Hạt Phan Thiết"
+            },
+            {
+                "code": "24.2",
+                "name": "Hạt Hàm Thuận Nam"
+            },
+            {
+                "code": "24.3",
+                "name": "Hạt Hàm Tân"
+            },
+            {
+                "code": "24.4",
+                "name": "Hạt Bắc Tuy"
+            },
+            {
+                "code": "24.5",
+                "name": "Hạt Đức Tánh"
+            }
+        ]
+    },
+    {
+        "code": 25,
+        "name": "GP. Phú Cường",
+        "items": [
+            {
+                "code": "25.1",
+                "name": "Hạt Bến Cát"
+            },
+            {
+                "code": "25.2",
+                "name": "Hạt Bình Long"
+            },
+            {
+                "code": "25.3",
+                "name": "Hạt Củ Chi"
+            },
+            {
+                "code": "25.4",
+                "name": "Hạt Lạc An"
+            },
+            {
+                "code": "25.5",
+                "name": "Hạt Phước Thành"
+            },
+            {
+                "code": "25.6",
+                "name": "Hạt Phú Cường"
+            },
+            {
+                "code": "25.7",
+                "name": "Hạt Tây Ninh"
+            }
+        ]
+    },
+    {
+        "code": 26,
+        "name": "GP. Vĩnh Long",
+        "items": [
+            {
+                "code": "26.1",
+                "name": "Hạt Sa Đéc"
+            },
+            {
+                "code": "26.2",
+                "name": "Hạt Vĩnh Long"
+            },
+            {
+                "code": "26.3",
+                "name": "Hạt Mai Phốp"
+            },
+            {
+                "code": "26.4",
+                "name": "Hạt Trà Vinh"
+            },
+            {
+                "code": "26.5",
+                "name": "Hạt Mặc Bắc"
+            },
+            {
+                "code": "26.6",
+                "name": "Hạt Vĩnh Kim"
+            },
+            {
+                "code": "26.7",
+                "name": "Hạt Bến Tre"
+            },
+            {
+                "code": "26.8",
+                "name": "Hạt Bình Đại"
+            },
+            {
+                "code": "26.9",
+                "name": "Hạt Cái Mơn"
+            },
+            {
+                "code": "26.10",
+                "name": "Hạt Thạnh Phú"
+            }
+        ]
+    },
+    {
+        "code": 27,
+        "name": "GP. Xuân Lộc",
+        "items": [
+            {
+                "code": "27.1",
+                "name": "Hạt An Bình"
+            },
+            {
+                "code": "27.2",
+                "name": "Hạt Biên Hòa"
+            },
+            {
+                "code": "27.3",
+                "name": "Hạt Gia Kiệm"
+            },
+            {
+                "code": "27.4",
+                "name": "Hạt Hòa Thanh"
+            },
+            {
+                "code": "27.5",
+                "name": "Hạt Hố Nai"
+            },
+            {
+                "code": "27.6",
+                "name": "Hạt Long Thành"
+            },
+            {
+                "code": "27.7",
+                "name": "Hạt Phước Lý"
+            },
+            {
+                "code": "27.8",
+                "name": "Hạt Phú Thịnh"
+            },
+            {
+                "code": "27.9",
+                "name": "Hạt Phương Lâm"
+            },
+            {
+                "code": "27.10",
+                "name": "Hạt Tân Mai"
+            },
+            {
+                "code": "27.11",
+                "name": "Hạt Túc Trưng"
+            },
+            {
+                "code": "27.12",
+                "name": "Hạt Gia Ray"
+            },
+            {
+                "code": "27.13",
+                "name": "Hạt Long Khánh"
+            }
+        ]
+    }
+]
