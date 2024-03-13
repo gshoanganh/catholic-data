@@ -2,14 +2,6 @@
     "version": 1,
     "holidays": [
         {
-            "code": "2024-03-02",
-            "again": null,
-            "name": "Thích thì nghỉ thôi",
-            "markColor": "red",
-            "background":"gray",
-            "lunar": false
-        },
-        {
             "code": "2024-09-01",
             "again": null,
             "name": "Lễ Quốc khánh",
