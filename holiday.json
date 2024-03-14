@@ -2,7 +2,7 @@
     "version": 1,
     "holidays": [
         {
-            "code": "2024-09-01",
+            "code": "20240901",
             "again": null,
             "name": "Lễ Quốc khánh",
             "markColor": "red",
