@@ -1,88 +1,12 @@
 [
     {
-        "desId": 1,
-        "title": "Năm phụng vụ",
-        "content": "Hằng năm, thường vào cuối tháng 11 Dương lịch, Giáo hội Công Giáo bắt đầu năm phụng vụ mới.\nNăm Phụng vụ của Giáo Hội có 52 tuần lễ, khởi đầu từ Chúa Nhật thứ nhất mùa Vọng (thông thường cuối tháng 11, đầu tháng 12) và kết thúc vào chiều thứ Bảy sau Chúa Nhật thứ 34 mùa thường niên (Cuối tháng 11), Lễ Chúa Kitô Vua vũ trụ.",
+        "desId": 111,
+        "title": "Ngày Quốc tế Hạnh phúc 20/3",
+        "content": "Ngày Quốc tế Hạnh phúc hay là Ngày Hạnh phúc (International Day of Happiness) là ngày 20 tháng 3 hàng năm, kể từ năm 2013. Ngày này là ý tưởng của chuyên gia Liên Hợp Quốc Jayme Illien đưa ra nhằm tôn vinh, phát triển và nâng cao hạnh phúc trên toàn cầu. Ngày lễ quốc tế này được Đại hội đồng Liên Hiệp quốc quyết định chính thức khi tất cả 193 quốc gia thành viên nhất trí thông qua Nghị quyết A/RES/66/281 ngày 20 tháng 6 năm 2012.",
         "items": [
             [
-                "I. CHU KỲ THEO MÙA",
-                "Năm Phụng vụ chia thành 5 mùa với cao điểm là mùa Phục Sinh rồi đến Giáng Sinh, và được chuẩn bị bằng Mùa Chay và Mùa Vọng, còn xen kẽ giữa các mùa gọi là Mùa Thường Niên."
-            ],
-            [
-                "1. Mùa Vọng:",
-                "Chuẩn bị tâm hồn tín hữu kỷ niệm Mầu nhiệm Con Thiên Chúa đến trần gian vào Lễ Giáng Sinh.",
-                "Mùa Vọng kéo dài khoảng 4 tuần lễ, bắt đầu từ Chúa Nhật I mùa Vọng đến chiều ngày 24/12. Các bài đọc Mùa Vọng mời gọi tín hữu hãy tỉnh thức và sẵn sàng, không bị đè nặng và xao lãng bởi những lo toan của thế gian này (x. Lc 21, 34-36). Trong mùa Vọng, lễ phục màu tím nói lên yếu tố sám hối theo nghĩa chuẩn bị, tĩnh lặng và rèn luyện tâm hồn để đón nhận niềm vui trọn vẹn của Lễ Giáng Sinh."
-            ],
-            [
-                "2. Mùa Giáng Sinh:",
-                "kỷ niệm sự giáng sinh của Con Một Thiên Chúa trong thế giới. Tín hữu được mời gọi sống mầu nhiệm Emmanuel -Thiên Chúa ở cùng chúng ta- và suy ngẫm về hồng ân cứu độ được ban tặng qua việc Đức Giêsu được sinh ra để chết cho chúng ta. Phụng vụ Mùa Giáng Sinh bắt đầu với Thánh Lễ canh thức Đêm Giáng Sinh và kết thúc với Lễ Chúa Chịu Phép Rửa. Mùa Giáng Sinh có tuần bát nhật Giáng Sinh."
-            ],
-            [
-                "3. Mùa Chay:",
-                "Theo nguyên nghĩa, Mùa Chay là mùa 40 ngày, con số mang ý nghĩa biểu tượng Kinh Thánh: 40 năm dân Do Thái đi trong hoang địa để vào đất hứa, 40 ngày ông Môsê ở trên núi Giao Ước Sinai, và 40 ngày chay tịnh của Chúa Giêsu trong hoang địa. Là thời gian chuẩn bị tâm hồn đón mừng Chúa Phục Sinh, mùa Chay kéo dài 40 ngày, bắt đầu từ Thứ Tư Lễ Tro và kết thúc vào lúc mặt trời lặn vào Thứ Năm Tuần Thánh.",
-                "Trong mùa Chay, tín hữu tìm kiếm Chúa trong cầu nguyện bằng việc đọc Sách Thánh; phục vụ bằng cách bố thí, không chỉ thông qua việc cho đi tiền bạc, mà còn chia sẻ thời gian và tài năng của mỗi người; và thực hành sự tự chủ qua việc ăn chay, khi không chỉ kiêng thịt, tránh dùng những thứ xa xỉ mà còn phải thực sự hoán cải nội tâm khi cố gắng trung thành tuân theo ý Chúa."
-            ],
-            [
-                "Tam Nhật Vượt Qua:",
-                "Việc cử hành Tam Nhật Vượt Qua đánh dấu sự kết thúc của Mùa Chay, và dẫn đến việc cử hành mầu nhiệm cứu chuộc qua cuộc tử nạn và Phục sinh của Đức Kitô. Tam Nhật Thánh bắt đầu từ Lễ Tiệc Ly của Thứ Năm Tuần Thánh cho đến Kinh Chiều II Chúa Nhật Phục sinh."
-            ],
-            [
-                "4. Mùa Phục Sinh:",
-                "được đặc trưng bởi niềm vui của cuộc sống vinh quang và chiến thắng sự chết được thể hiện đầy đủ nhất trong tiếng kêu vang dội của Kitô hữu: Alleluia! Mọi đức tin bắt nguồn từ niềm tin vào sự phục sinh: “Nếu Đức Kitô đã không sống lại, thì lời rao giảng của chúng tôi trống rỗng; cả đức tin của anh em cũng trống rỗng” (1 Cor 15, 14).",
-                "Là giai đoạn quan trọng nhất trong tất cả các mùa phụng vụ, mùa Phục Sinh kéo dài 50 ngày, bắt đầu từ Chúa Nhật Phục Sinh cho đến hết lễ Chúa Thánh Thần hiện xuống. Mùa Phục Sinh có tuần Bát Nhật Phục Sinh, như một cách kéo dài niềm vui của ngày Chúa Nhật Phục Sinh, được cử hành như lễ trọng kính Chúa, dù không đọc Kinh Tin Kính nhưng không được phép cử hành bất cứ thánh lễ ngoại lịch nào, ngoại trừ thánh lễ an táng."
-            ],
-            [
-                "5. Mùa Thường Niên:",
-                "là thời gian để lớn lên và trưởng thành, trong đó mầu nhiệm Chúa Kitô được mời gọi thâm nhập sâu hơn vào lịch sử cho đến khi tất cả mọi sự cuối cùng được thu hút vào Chúa Kitô. Trong mùa thường niên, tuy Phụng vụ không cử hành một khía cạnh đặc biệt nào về mầu nhiệm Chúa Kitô, nhưng lại tôn kính chính mầu nhiệm ấy trong toàn thể, các tín hữu được mời gọi suy tư giáo huấn và việc làm của Chúa Giêsu giữa dân Ngài.",
-                "Mùa thường niên gồm 34 tuần, xen kẽ giữa mùa Giáng Sinh và mùa Chay (khoảng 4-8 tuần), giữa mùa Phục Sinh và mùa Vọng (khoảng 6 tháng)."
-            ],
-            [
-                "II. CHU KỲ CÁC THÁNH",
-                "Giáo hội cung cấp những bậc lễ khác nhau: Lễ buộc, Lễ trọng, Lễ Kính, Lễ nhớ, Lễ thường"
-            ],
-            [
-                "1. Bậc Lễ trọng",
-                "Được qui định là bậc cao nhất",
-                "- Lễ Trọng mừng kính Chúa bao gồm: Lễ Giáng sinh, Lễ Hiển linh, Lễ Phục sinh, Lễ Chúa Thánh Thần Hiện Xuống, Lễ Chúa Ba Ngôi, Lễ Chúa Thăng Thiên, Lễ Mình Máu Thánh Chúa Kitô, Lễ Thánh Tâm Chúa Giêsu, và Lễ Chúa Kitô Vua.",
-                "- Lễ Trọng mừng kính Đức Maria: Lễ Đức Mẹ Vô Nhiễm Nguyên Tội, Lễ Mẹ Thiên Chúa, Lễ Truyền Tin, và Lễ Đức Mẹ Lên trời.",
-                "- Lễ Trọng mừng kính các Thánh: Lễ Thánh Giuse, Lễ sinh nhật Thánh Gioan Tẩy Giả, Lễ Thánh Phêrô và Thánh Phaolô, và lễ Các Thánh.",
-                "Trong khi một số Lễ Trọng luôn được cử hành “cố định” theo lịch phụng vụ - ví dụ, lễ Giáng sinh được cử hành vào ngày 25. 12, lễ các Thánh ngày 1.11,  lễ Đức Mẹ Vô nhiễm Nguyên tội ngày 8. 12, …. Thì có những Lễ Trọng được cử hành thay đổi dựa theo ngày của Lễ Phục sinh. Lễ Hiện Xuống là 50 ngày sau Lễ Phục Sinh; lễ Chúa Ba Ngôi là Chúa Nhật đầu tiên sau Lễ Hiện Xuống; lễ Mình máu Thánh Chúa là Chúa Nhật thứ hai sau Lễ Hiện Xuống; lễ Thánh Tâm Chúa Giêsu là Thứ Sáu đầu tiên sau Lễ Mình Thánh Chúa,..."
-            ],
-            [
-                "2. Lễ Kính",
-                "Lễ Kính được cử hành giới hạn trong một ngày bình thường",
-                "- Lễ Kính Chúa: lễ Thánh Gia Thất, lễ Dâng Chúa trong Đền Thánh (2.2), lễ Chúa Giêsu chịu phép Rửa, lễ Chúa Giêsu Biến hình (6.8), lễ Suy tôn Thánh giá (14.9). Các lễ kính Chúa có bậc lễ ưu tiên trên các Chúa nhật Giáng sinh và thường niên, do đó, trong trường hợp khi các lễ này trùng vào Chúa nhật thì phải cử hành theo lễ kính Chúa.",
-                "- Lễ Kính Đức Maria: lễ Đức Mẹ đi thăm Bà Elisabet (31.5), lễ Sinh nhật Đức Mẹ (8.9).",
-                "- Lễ Kính các Thánh: lễ Thánh Phaolô tông đồ trở lại (25.1), lễ Thánh Marcô, Tác giả Tin Mừng (25.4), lễ Thánh Philipphê và Giacôbê Tông đồ (3.5), lễ Thánh Matthia Tông đồ (14.5), lễ Thánh Tôma Tông đồ (3.7), lễ Thánh Giacôbê Tông đồ (25.7), lễ Thánh Lôrensô Phó tế tử đạo (10.8), lễ Thánh Batôlômêô Tông đồ (24.8), lễ Thánh lễ Thánh Matthêu Tông đồ Thánh sử (21.9), lễ Thánh Luca Thánh sử (18.10), lễ Thánh Simon và Giuđa Tông đồ (28.10), lễ Thánh Anrê Tông đồ (30.11), lễ Thánh Têphanô Tử đạo tiên khởi (26.12), lễ Thánh Gioan Tông đồ Thánh sử (27.12), và lễ Các Thánh Anh hài (28.12).",
-                "- Lễ Các Tổng lãnh thiên thần Micae, Gabriel và Raphael (29.9), lễ Lập Tông tòa Thánh Phêrô (22.2), lễ Cung hiến Đền thờ Latran (9.11)."
-            ],
-            [
-                "Ngày Chúa nhật",
-                "Ngày Chúa Nhật được gọi là ‘Ngày của Chúa’, ngày Chúa Kitô sống lại từ cõi chết, và theo truyền thống từ thời các tông đồ, các tín hữu tụ họp nhau lại lắng nghe Lời Chúa và cử hành Thánh Thể. Thật vậy, “Đó là ngày quy tụ cộng đoàn phụng vụ, ngày của gia đình Ki-tô Giáo, ngày của niềm vui và ngày nghỉ việc. Ngày Chúa nhật là “nền tảng và cốt lõi của cả năm phụng vụ” (GLCG, 1193)."
-            ],
-            [
-                "III. MÀU SẮC TRONG PHỤNG VỤ",
-                "Trong lịch Phụng vụ, màu sắc của mỗi ngày tương ứng với việc cử hành Phụng vụ chính của ngày hôm đó và có ý nghĩa tượng trưng khác nhau. Theo sách Nghi thức Rôma, 1969, có 4 màu chính được sử dụng trong phụng vụ bao gồm: trắng, xanh lá cây, đỏ và tím."
-            ],
-            [
-                "1. Màu trắng:",
-                "được xem là tượng trưng cho niềm vui, sự chiến thắng, và sự thuần khiết có được từ đức tin. Màu trắng được dùng trong mùa Giáng Sinh, mùa Phục Sinh, các lễ về Chúa, Đức Mẹ, các Thiên thần, và các Thánh không tử đạo."
-            ],
-            [
-                "2. Màu xanh lá cây:",
-                "biểu tượng của hy vọng, sự sống, và sự phát triển. Màu xanh lá cây được dùng trong Mùa Thường Niên."
-            ],
-            [
-                "3. Màu đỏ:",
-                "tượng trưng máu và lửa. Màu đỏ được dùng trong phụng vụ Chúa Nhật Lễ Lá, Thứ Sáu Tuần Thánh, Lễ Chúa Thánh Thần Hiện Xuống, trong các cử hành Cuộc Khổ Nạn của Chúa Giêsu, trong các lễ kính các Thánh Tông Đồ, các Thánh Sử và các Thánh Tử Đạo."
-            ],
-            [
-                "4. Màu tím:",
-                "liên quan đến sự ăn năn, thống hối, và chờ đợi. Màu tím đặc biệt được sử dụng trong Mùa Vọng và Mùa Chay. Ngoài ra, màu tím cũng được dùng khi cử hành lễ an táng và lễ cầu cho các tín hữu đã qua đời."
-            ],
-            [
-                "Màu hồng",
-                "Ngoài ra, cũng có thêm màu hồng, tượng trưng cho niềm vui lên được khơi lên trong hành trình chờ đợi và sám hối. Màu hồng được sử dụng vào Chúa Nhật III Mùa Vọng và Chúa Nhật IV Mùa Chay."
+                "Lịch sử ngày Quốc tế Hạnh phúc",
+                "Tháng 6/2012, tại Hội nghị của Liên Hiệp Quốc, Tổng Thư ký Liên Hiệp Quốc Ban Ki-moon chính thức tuyên bố ngày 20/3 là ngày Quốc tế Hạnh phúc.\nNgày đặc biệt này được lấy ý tưởng từ Vương quốc Bhutan, một trong những quốc gia có chỉ số hạnh phúc cao nhất thế giới.\nBắt đầu từ những năm 1970, đức vua của Bhutan đã đưa ra một cách thức mới để đánh giá sự thịnh vượng của xã hội. Sự đánh giá này dựa vào hai tiêu chí là chỉ số hạnh phúc quốc gia và chỉ số về kinh tế. Các chỉ số này được tính toán dựa trên các yếu tố về sức khỏe, tinh thần, giáo dục, môi trường, chất lượng quản lý và mức sống của người dân."
             ]
         ]
     },
