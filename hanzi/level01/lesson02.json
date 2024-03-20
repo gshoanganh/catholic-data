@@ -1,0 +1,118 @@
+{
+    "line1": [
+        [
+            "我的桌子是蓝色的。",
+            "Wǒ de zhuōzi shì lán sè de.",
+            "Chiếc bàn của tôi màu xanh lam."
+        ],
+        [
+            "桌子上有很多东西。",
+            "Zhuōzi shàng yǒu hěnduō dōngxī.",
+            "Trên bàn có rất nhiều đồ đạc."
+        ],
+        [
+            "桌子上有一台电脑，",
+            "Zhuōzi shàng yǒuyī tái diànnǎo,",
+            "Trên bàn có 1 chiếc máy tính,"
+        ],
+        [
+            "这是我老公的电脑，",
+            "zhè shì wǒ lǎogōng de diànnǎo,",
+            "đây là máy tính của chồng tôi,"
+        ],
+        [
+            "电脑上有一副眼镜，",
+            "diànnǎo shàng yǒu yī fù yǎnjìng,",
+            "trên máy tính có 1 cặp kính,"
+        ],
+        [
+            "这是我的眼睛。",
+            "zhè shì wǒ de yǎnjīng.",
+            "đây là cặp kính của tôi."
+        ]
+    ],
+    "line2": [
+        [
+            "电脑左边有一杯咖啡和一本笔记本，",
+            "Diànnǎo zuǒbiān yǒu yībēi kāfēi hé yī běn bǐjìběn,",
+            "Bên trái máy tính có 1 cốc cà phê và 1 quyển vở ghi chép,"
+        ],
+        [
+            "笔记本上有一个手机和两支铅笔，",
+            "bǐjìběn shàng yǒu yīgè shǒujī hé liǎng zhī qiānbǐ,",
+            "trên vở ghi chép có 1 chiếc điện thoại di động và 2 cây bút chì,"
+        ],
+        [
+            "两支铅笔在手机右边。",
+            "liǎng zhī qiānbǐ zài shǒujī yòubiān. ",
+            "2 cây bút chì ở bên phải của điện thoại di động."
+        ]
+    ],
+    "line3": [
+        [
+            "你们学会了吗？",
+            "Nǐmen xuéhuì le ma?",
+            "Các bạn đã học được chưa?"
+        ]
+    ],
+    "program": {
+        "program1": [
+            [
+                "Danh từ + Phương vị từ",
+                "(Phương vị từ là các từ chỉ bên trái, bên phải, bên trên, bên dưới, bên cạnh…)"
+            ],
+            [
+                "电脑左边有一杯咖啡",
+                "Diànnǎo zuǒbiān yǒu yībēi kāfēi",
+                "Bên trái máy tính có 1 cốc cà phê"
+            ],
+            [
+                "两支铅笔在手机右边",
+                "Liǎng zhī qiānbǐ zài shǒujī yòubiān",
+                "2 cây bút chì ở bên phải điện thoại di động"
+            ]
+        ]
+    },
+    "word": [
+        [
+            "东西",
+            "ōngxī",
+            "Đồ, Đồ vật, thứ gì đó"
+        ],
+        [
+            "台",
+            "tái",
+            "Lượng từ cho máy tính, TV, radio"
+        ],
+        [
+            "副",
+            "fù",
+            "Lượng từ cho máy tính, tai nghe"
+        ],
+        [
+            "本",
+            "běn",
+            "Lượng từ cho đồ vật dạng sách"
+        ],
+        [
+            "支",
+            "zhī",
+            "Lượng từ cho vật thể dài như bút, ngón tay"
+        ],
+        [
+            "电脑",
+            "diànnǎo",
+            "Máy tính"
+        ],
+        [
+            "眼镜",
+            "yǎnjìng",
+            "Mắt kính"
+        ],
+        [
+            "笔记本",
+            "bǐjìběn",
+            "Sổ tay"
+        ]
+    ]
+}

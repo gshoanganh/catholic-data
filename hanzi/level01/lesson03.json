@@ -1,0 +1,106 @@
+{
+    "line1": [
+        [
+            "大家好，这是我的家人。",
+            "Dajia hǎo, zhè shì wǒ de jiārén.",
+            "Chào mọi người, đây là gia đình của tôi."
+        ],
+        [
+            "这是我的爷爷，","Zhè shì wǒ de yéye,","Đây là ông nội của tôi,"
+        ],
+        [
+            "他目前是一名保安，","tā mùqián shì yīmíng bǎo'ān,","hiện ông là một bảo vệ,"
+        ],
+        [
+            "他在银行工作。","tā zài yínháng gōngzuò.","ông làm việc tại ngân hàng."
+        ],
+        [
+            "这是我爸爸，","Zhè shì wǒ bàba,","Đây là bố của tôi,"
+        ],
+        [
+            "他目前是建筑工程师。","tā mùqián shì jiànzhú gōngchéngshī.","hiện Bố là một kỹ sư xây dựng."
+        ],
+        [
+            "他工作很辛苦，","Tā gōngzuò hěn xīnkǔ,","Công việc của Bố rất vất vả,"
+        ],
+        [
+            "每天很晚才回家。","měitiān hěn wǎn cái huí jiā.","hàng ngày rất khuya mới về nhà."
+        ],
+        [
+            "这是我的母亲，","Zhè shì wǒ de mǔqīn,","Đây là mẹ của tôi,"
+        ],
+        [
+            "她是小学老师，","tā shì xiǎoxué lǎoshī,","Mẹ là một giáo viên tiểu học,"
+        ],
+        [
+            "有很多时间照顾家庭。","yǒu hěnduō shíjiān zhàogù jiātíng.","có rất nhiều thời gian dành cho gia đình."
+        ],
+        [
+            "我有一个哥哥，","Wǒ yǒu yīgè gēge,","Tôi có một anh trai,"
+        ],
+        [
+            "他是一名医生。","tā shì yīmíng yīshēng.","anh ấy là bác sĩ."
+        ],
+        [
+            "这是我的妹妹，","Zhè shì wǒ de mèimei,","Đây là em gái của tôi,"
+        ],
+        [
+            "她是高中生学生。","tā shì gāozhōngshēng xuéshēng.","em đang học tại trường trung học phổ thông."
+        ]
+    ],
+    "line2": [
+        [
+            "我是一名大学生。","Wǒ shì yīmíng dàxuéshēng.","Tôi là sinh viên đại học."
+        ],
+        [
+            "我很爱我的家人。","Wǒ hěn ài wǒ de jiārén.","Tôi rất yêu quý gia đình của mình."
+        ]
+    ],
+    "program": {
+        "program1": [
+            [
+                "Chủ ngữ + 是 + ...",
+                "这是: Đây là, "
+            ],
+            [
+                "这是书。","Zhè shì shū","Đây là sách."
+            ],
+            [
+                " 我是越南人。","Wǒ shì yuènán rén","Tôi là người Việt Nam."
+            ],
+            ["那根笔是我的。","Nà gēn bǐ shì wǒ de","Cái bút đó là của tôi"]
+        ]
+    },
+    "word": [
+        [
+            "保安","bǎo'ān","Bảo vệ"
+        ],
+        [
+            "银行","yínháng","Ngân hàng"
+        ],
+        [
+            "目前","mùqián","Hiện tại"
+        ],
+        [
+            "工程师","gōngchéngshī","Kỹ sư"
+        ],
+        [
+            "辛苦","xīnkǔ","Vất vả"
+        ],
+        [
+            "时间","shíjiān","Thời gian"
+        ],
+        [
+            "医生","yīshēng","Bác sĩ"
+        ],
+        [
+            "学生","xuéshēng","Học sinh, Sinh viên"
+        ],
+        [
+            "高中","gāozhōng","Trung học phổ thông"
+        ],
+        [
+            "高中生","gāozhōng shēng","Học sinh trung học"
+        ]
+    ]
+}

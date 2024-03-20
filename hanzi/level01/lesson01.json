@@ -1,0 +1,138 @@
+{
+    "line1": [
+        [
+            "我每天早上六点起床。",
+            "Wǒ měitiān zǎoshang liù diǎn qǐchuáng.",
+            "Tôi thức dậy lúc 6 giờ sáng hàng ngày."
+        ],
+        [
+            "我每天早上六点半吃早饭。",
+            "Wǒ měitiān zǎoshang liù diǎn bàn chī zǎofàn.",
+            "Tôi ăn bữa sáng lúc 6 rưỡi sáng hàng ngày."
+        ],
+        [
+            "我每天早上七点坐校车上学。",
+            "Wǒ měitiān zǎoshang qī diǎn zuò xiàochē shàngxué.",
+            "Tôi 7 giờ sáng hàng ngày ngồi xe bus trường đi học."
+        ],
+        [
+            "我每天早上八点上课。",
+            "Wǒ měitiān zǎoshang bā diǎn shàngkè.",
+            "Tôi vào lớp lúc 8 giờ sáng hàng ngày."
+        ],
+        [
+            "我上午九点上英语课，十点半上汉语课。",
+            "Wǒ shàngwǔ jiǔ diǎn shàng yīngyǔ kè, shí diǎn bàn shàng hànyǔ kè.",
+            "9 giờ sáng tôi học lớp tiếng Anh, 10 giờ rưỡi học lớp tiếng Trung."
+        ]
+    ],
+    "line2": [
+        [
+            "每天中午十二点我在学校吃午饭。",
+            "Měitiān zhōngwǔ shí’èr diǎn wǒ zài xuéxiào chī wǔfàn.",
+            "12 giờ trưa hàng ngày tôi ăn bữa trưa ở trường học."
+        ],
+        [
+            "我每天下午两点上体育课。",
+            "Wǒ měitiān xiàwǔ liǎng diǎn shàng tǐyù kè.",
+            "2 giờ chiều hàng ngày tôi học lớp thể dục."
+        ],
+        [
+            "我每天下午四点放学，然后我骑自行车回家。",
+            "Wǒ měitiān xiàwǔ sì diǎn fàngxué, ránhòu wǒ qí zìxíngchē huí jiā.",
+            "4 giờ chiều hàng ngày tôi tan trường, sau đó tôi đi xe đạp về nhà."
+        ],
+        [
+            "回家后我会洗澡。",
+            "Huí jiā hòu wǒ huì xǐzǎo.",
+            "Sau khi về nhà tôi sẽ đi tắm."
+        ]
+    ],
+    "line3": [
+        [
+            "每天晚上七点我跟家人吃晚饭。",
+            "Měitiān wǎnshàng qī diǎn wǒ gēn jiārén chī wǎnfàn.",
+            "7 giờ tối hàng ngày tôi cùng gia đình ăn bữa tối."
+        ],
+        [
+            "晚饭后我写作业或者看电视。",
+            "Wǎnfàn hòu wǒ xiě zuòyè huòzhě kàn diànshì.",
+            "Sau bữa tối tôi làm bài tập hoặc xem TV."
+        ],
+        [
+            "我每天晚上九点半睡觉。",
+            "Wǒ měitiān wǎnshàng jiǔ diǎn bàn shuìjiào.",
+            "9 giờ rưỡi tối hàng ngày tôi đi ngủ."
+        ]
+    ],
+    "program": {
+        "program1": [
+            [
+                "Thời gian + địa điểm + hành động",
+                "(Trong đó thời gian được sắp xếp theo thứ tự từ lớn đến bé)"
+            ],
+            [
+                "我每天早上六点半吃早饭",
+                "Wǒ měitiān zǎoshang liù diǎn bàn chī zǎofàn",
+                "Tôi ăn sáng lúc 6 rưỡi sáng hàng ngày"
+            ],
+            [
+                "每天中午十二点我在学校吃午饭",
+                "Měitiān zhōngwǔ shí’èr diǎn wǒ zài xuéxiào chī wǔfàn",
+                "12 giờ trưa hàng ngày tôi ăn bữa trưa ở trường"
+            ]
+        ]
+    },
+    "word": [
+        [
+            "每天",
+            "Měitiān",
+            "Mỗi ngày, hàng ngày"
+        ],
+        [
+            "起床",
+            "qǐchuáng",
+            "Thức dậy"
+        ],
+        [
+            "校车",
+            "xiàochē",
+            "Xe bus trường"
+        ],
+        [
+            "上学",
+            "shàngxué",
+            "Đi học"
+        ],
+        [
+            "英语",
+            "yīngyǔ",
+            "Tiếng Anh"
+        ],
+        [
+            "汉语",
+            "hànyǔ",
+            "Tiếng Trung"
+        ],
+        [
+            "体育",
+            "tǐyù",
+            "Thể dục"
+        ],
+        [
+            "自行车",
+            "zìxíngchē",
+            "Xe đạp"
+        ],
+        [
+            "写作业",
+            "xiě zuòyè",
+            "Làm bài tập"
+        ],
+        [
+            "体育",
+            "tǐyù",
+            "Thể dục, thể thao"
+        ]
+    ]
+}

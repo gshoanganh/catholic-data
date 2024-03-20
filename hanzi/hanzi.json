@@ -1,0 +1,42 @@
+[
+    {
+        "version": 1,
+        "countLevel": 10
+    },
+    {
+        "lesson": 1,
+        "line": 3,
+        "level": 1,
+        "file": "lesson01.json",
+        "name": "Một ngày của tôi",
+        "nameEn": "my day",
+        "nameCn":"我的一天",
+        "pinyin":"wǒ de yìtiān",
+        "icon": "",
+        "mp3": ""
+    },
+    {
+        "lesson": 2,
+        "line": 3,
+        "level": 1,
+        "file": "lesson02.json",
+        "name": "Sở hữu",
+        "nameEn": "Of something",
+        "nameCn":"桌子上的东西",
+        "pinyin":"zhuōzi shàng de dōngxī",
+        "icon": "",
+        "mp3": ""
+    },
+    {
+        "lesson": 3,
+        "line": 3,
+        "level": 1,
+        "file": "lesson03.json",
+        "name": "Công việc của người nhà tôi",
+        "nameEn": "The work of my family members",
+        "nameCn":"我家人的工作",
+        "pinyin":"wǒjiā rén de gōngzuò",
+        "icon": "",
+        "mp3": ""
+    }
+]
