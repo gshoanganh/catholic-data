@@ -136,142 +136,225 @@
     },
     {
         "desId": 115,
-        "title": "",
-        "content": "",
-        "items": null
+        "title": "Ngày Trái đất",
+        "content": "Ngày Trái Đất là ngày để nâng cao nhận thức và giá trị của môi trường tự nhiên của Trái Đất. Ngày Trái Đất được tài trợ bởi thượng nghị sĩ Hoa Kỳ Gaylord Nelson như một cuộc hội thảo về môi trường được tổ chức lần đầu tiên vào 22 tháng 4 năm 1970. Trong khi Ngày Trái Đất đầu tiên chỉ được chú ý tại Hoa Kỳ, một tổ chức đã được thành lập bởi Denis Hayes, nguyên là điều phối viên toàn quốc năm 1970, đưa nó lên tầm quốc tế vào năm 1990 và tổ chức các sự kiện ở 141 quốc gia.",
+        "items": [
+            [
+                "Công bố",
+                "Năm 2009, Đại hội đồng Liên Hợp Quốc tuyên bố ngày 22 tháng 4 là Ngày Quốc tế Mẹ Trái Đất (International Mother Earth Day)."
+            ],
+            [
+                "Giờ Trái Đất đầu tiên",
+                "Tên và các khái niệm lúc đầu được đề xuất bởi John McConnell năm 1969 tại một hội nghị của UNESCO tại San Francisco. Ngày Trái Đất đầu tiên được tổ chức vào ngày 21 tháng 3 năm 1970, ngày đầu tiên của mùa xuân ở Bắc bán cầu."
+            ]
+        ]
     },
     {
         "desId": 116,
-        "title": "",
-        "content": "",
-        "items": null
+        "title": "Ngày giải phóng Miền Nam, thống nhất Đất nước",
+        "content": "Ngày lễ 30 tháng 4, tên chính thức là Ngày Giải phóng Miền Nam, thống nhất đất nước, Ngày Chiến thắng, Ngày Thống nhất là một ngày lễ quốc gia của Việt Nam, đánh dấu sự kiện chấm dứt Chiến tranh Việt Nam khi Tổng thống Dương Văn Minh và Thủ tướng Vũ Văn Mẫu của Việt Nam Cộng hòa tuyên bố đầu hàng vô điều kiện Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam vào trưa ngày 30 tháng 4 năm 1975.",
+        "items": [
+            [
+                "Lịch sử",
+                "Ngày này là kết quả trực tiếp của Chiến dịch Mùa Xuân năm 1975 và là một mốc quan trọng trong lịch sử Việt Nam.",
+                "Sự kiện 30 tháng 4 diễn ra sau khi tất cả công dân và binh lính Mỹ cùng với hàng ngàn người Việt phục vụ cho chính thể Việt Nam Cộng hòa ở miền Nam Việt Nam di tản khỏi Sài Gòn. Năm 1976, Việt Nam chính thức tuyển cử bầu Quốc hội thống nhất và Sài Gòn đổi tên thành Thành phố Hồ Chí Minh, theo tên của cố Chủ tịch Việt Nam Dân chủ Cộng hoà Hồ Chí Minh",
+                "Hằng năm, tại Việt Nam có rất nhiều hoạt động được tổ chức để kỷ niệm ngày này. Nó còn là ngày nghỉ lễ quốc gia, được ghi trong các văn bản pháp luật với tên gọi “Ngày Chiến thắng”."
+            ]
+        ]
     },
     {
         "desId": 117,
-        "title": "",
-        "content": "",
+        "title": "Ngày Quốc tế Lao động",
+        "content": "Ngày Quốc tế Lao động hay ngày 1 tháng 5 là ngày lễ kỷ niệm của phong trào công nhân quốc tế và của người lao động vào ngày 1 tháng 5 hằng năm, tại nhiều quốc gia trên thế giới, thường có các cuộc biểu tình trên đường phố của hàng triệu người lao động và các tổ chức công đoàn của họ. Vào ngày này, các phong trào cộng sản, cánh tả, các tổ chức theo chủ nghĩa vô chính phủ cùng với các công đoàn liên minh thực hiện các cuộc tuần hành trên đường phố, yêu cầu mở rộng các quyền lao động và an sinh xã hội.",
         "items": null
     },
     {
         "desId": 118,
-        "title": "",
-        "content": "",
+        "title": "Ngày sinh Chủ tịch Hồ Chí Minh",
+        "content": "Chủ tịch Hồ Chí Minh (tên lúc nhỏ là Nguyễn Sinh Cung, tên khi đi học là Nguyễn Tất Thành, trong nhiều năm hoạt động cách mạng trước đây lấy tên là Nguyễn Ái Quốc), sinh ngày 19-5-1890 ở làng Kim Liên, xã Nam Liên (nay là xã Kim Liên), huyện Nam Đàn, tỉnh Nghệ An.",
         "items": null
     },
     {
         "desId": 119,
-        "title": "",
-        "content": "",
+        "title": "Ngày Quốc tế Thiếu nhi",
+        "content": "Ngày Thiếu nhi hay Ngày Trẻ em, Tết Nhi Đồng như là một sự kiện hay một ngày lễ dành cho thiếu nhi được tổ chức vào các ngày khác nhau ở nhiều nơi trên thế giới.\nLiên Hợp Quốc đã quyết định ngày 20 tháng 11 là Ngày Thiếu nhi Thế giới (Universal Children's Day)[1] nhưng để cho các quốc gia thành viên được tự quyền chọn ngày thiếu nhi cho riêng mình.[1] Một số quốc gia thuộc Khối Xô Viết cũ đã tổ chức Ngày Quốc tế Thiếu nhi (International Children's Day) vào ngày 1 tháng 6. Nhiều quốc gia tổ chức ngày trẻ em vào những ngày khác.",
         "items": null
     },
     {
         "desId": 120,
-        "title": "",
-        "content": "",
+        "title": "Ngày Gia đình Việt Nam",
+        "content": "Ngày gia đình Việt Nam là một ngày lễ tôn vinh gia đình Việt Nam, là ngày mọi người trong gia đình quan tâm đến nhau, xã hội quan tâm đến trẻ nhỏ và những người không có cha mẹ, cặp vợ chồng phải hiểu được giá trị mái ấm và cùng nhau vượt qua sóng gió để có một gia đình hạnh phúc “Xây dựng gia đình no ấm, bình đẳng, tiến bộ và hạnh phúc”.\nTừ năm 2001, Phó Thủ tướng Chính phủ Việt Nam Phạm Gia Khiêm ký ban hành Quyết định 72/2001/QĐ-TTG chọn ngày 28 tháng 6 hàng năm là ngày gia đình Việt Nam.",
         "items": null
     },
     {
         "desId": 121,
-        "title": "",
-        "content": "",
+        "title": "Ngày thương binh Liệt sĩ",
+        "content": "Ngày thương binh - liệt sĩ (ngày 27 tháng 7) là ngày lễ kỉ niệm được tổ chức hàng năm nhằm tưởng niệm về những người thương binh, liệt sĩ của nước Cộng hòa Xã hội chủ nghĩa Việt Nam. Ngày lễ này được ghi nhận như là một biểu hiện của truyền thống “uống nước nhớ nguồn, đền ơn đáp nghĩa, ăn quả nhớ kẻ trồng cây” ở Việt Nam. Trong ngày này, chính quyền các cấp, các đoàn thể mà trọng tâm là Hội cựu chiến binh tổ chức nhiều hoạt động sôi nổi, rầm rộ, chủ yếu là việc các cá nhân, tổ chức, nhà chức trách thăm và tặng quà cho các gia đình thương binh, liệt sĩ, dâng hương tri ân tại các nghĩa trang liệt sĩ.",
         "items": null
     },
     {
         "desId": 122,
-        "title": "",
-        "content": "",
+        "title": "Ngày Cách mạng tháng Tám thành công",
+        "content": "Cách mạng tháng Tám còn gọi là Tổng khởi nghĩa tháng Tám là tên gọi ngành sử học chính thống tại Việt Nam hiện nay dùng để chỉ việc phong trào Việt Minh tiến hành khởi nghĩa chống Đế quốc Nhật Bản, buộc Đế quốc Việt Nam bàn giao chính quyền trung ương và các địa phương và buộc Bảo Đại phải thoái vị trong tháng 8 năm 1945.",
         "items": null
     },
     {
         "desId": 123,
+        "title": "Ngày Quốc khánh nước CHXHCN Việt Nam",
+        "content": "Hiến pháp nước Cộng hòa Xã hội chủ nghĩa Việt Nam 2013, chương 1, điều 13, mục 4 khẳng định: “Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam là ngày Tuyên ngôn độc lập 2 tháng 9 năm 1945”.",
+        "items": [
+            [
+                "Chọn ngày ra mắt",
+                "Giám mục Phaolô Lê Đắc Trọng kể rằng: ông Vũ Đình Tụng, bác sĩ riêng của Hồ Chí Minh và cũng là một giáo dân Công giáo, đã đề xuất lấy ngày 2 tháng 9 năm 1945.",
+                "Hồ Chí Minh hỏi vì sao thì ông Tụng giải thích: nó rơi vào ngày Chủ nhật nên mọi người được nghỉ việc, ngày 2 tháng 9 cũng là ngày Chúa nhật kính các đấng tử đạo Việt Nam, là lễ trọng nên giáo dân đều đi dự lễ; thời đó chỉ có phía Công giáo mới có các đoàn thể với áo quần đồng phục, đội ngũ chỉnh tề nên dễ vận động đồng bào Công giáo tham gia mít-tinh sau khi tan lễ. Sau đó, Hồ Chí Minh cho người liên lạc với bên phía tòa giám mục Hà Nội. Đến ngày 22 tháng 8, Người đến thăm Nhà thờ lớn Hà Nội. Tại đây, khi thấy giáo dân đang chuẩn bị cờ, hoa trang trí nhà thờ, chuẩn bị mừng lễ các vị tử đạo Việt Nam vào ngày 2 tháng 9 sắp tới, Hồ Chí Minh suy nghĩ một lúc rồi nói: “Tôi sẽ làm cho ngày đó thêm ý nghĩa nữa”. Có lẽ ý tưởng này đã đưa đến việc ông chọn ngày 2 tháng 9 là ngày tuyên bố độc lập của nước Việt Nam Dân chủ Cộng hòa.",
+                "Tuy nhiên, theo tiến sĩ sử học Nguyễn Quang Liệu thì việc Hồ Chí Minh chọn ngày 2/9 là để trùng với ngày Phát xít Nhật chính thức ký thỏa thuận đầu hàng quân Đồng Minh và lá cờ phát xít Nhật bị hạ xuống, qua đó nhằm thể hiện rõ Việt Nam là một quốc gia độc lập Ngày 28/8, Hồ Chủ tịch mới bắt đầu viết Tuyên ngôn Độc lập nên không thể ra mắt đồng bào trước ngày 28/8. Hồ Chủ tịch đặt yêu cầu với các phụ tá là phải tổ chức Lễ đọc tuyên ngôn không thể ngắn hơn 4 ngày nhưng cũng không thể kéo dài hơn 4 ngày vì quân Tưởng Giới Thạch đã bắt đầu kéo vào Việt Nam, vì vậy ngày 2/9 đã được chọn",
+                "Chiều ngày 2 tháng 9 năm 1945, hơn 50 vạn người dân Hà Nội đã tụ họp tại quảng trường Ba Đình chào mừng thành lập chính phủ mới. Thay mặt cho toàn thể chính phủ Việt Nam Dân chủ Cộng hoà, Hồ Chí Minh đã đọc bản Tuyên ngôn độc lập."
+            ]
+        ]
+    },
+    {
+        "desId": 124,
+        "title": "Ngày thành lập Đài truyền hình Việt Nam",
+        "content": "Đài Truyền hình Việt Nam, được biết đến rộng rãi với tên gọi VTV (viết tắt của từ tiếng Anh: Vietnam Television), là đài truyền hình quốc gia thuộc sở hữu của Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam. Đài chịu sự quản lý của Bộ Thông tin và Truyền thông, có nhiệm vụ “tuyên truyền đường lối của Đảng, chính sách pháp luật của Nhà nước và Quốc hội, góp phần giáo dục, nâng cao dân trí, phục vụ đời sống tinh thần của nhân dân”",
+        "items": [
+            [
+                "Lịch sử",
+                "VTV hiện đã phủ sóng được qua rất nhiều nền tảng khác nhau, phát sóng không chỉ ở Việt Nam mà còn ở các nước như Lào, Trung Quốc, Thái Lan... và các nước trên thế giới qua vệ tinh và các ứng dụng xem trực tuyến của Đài.",
+                "Tên viết tắt chính thức của Đài Truyền hình Việt Nam là VTV, được sử dụng từ năm 1990. 3 chữ cái in hoa VTV đè lên nhau được dùng làm biểu tượng của Đài từ năm 1995, lần lượt được thể hiện bằng 3 màu đỏ, xanh lá, xanh lam, tượng trưng cho 3 màu cơ bản trên màn hình máy truyền hình màu. Biểu trưng này đã được thiết kế lại vào các năm 2010 và 2012. VTV là viết tắt tên gọi tiếng Anh của “Vietnam Television” và cũng là viết tắt tên gọi tiếng Việt của “Vô tuyến Truyền hình Việt Nam”"
+            ]
+        ]
+    },
+    {
+        "desId": 125,
+        "title": "Ngày Doanh nhân Việt Nam",
+        "content": "Ngày 20/9/2004, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam Phan Văn Khải đã ký Quyết định số 990/QĐ-TTg về Ngày Doanh nhân Việt Nam, hằng năm lấy ngày 13 tháng 10 là “Ngày doanh nhân Việt Nam”.",
+        "items": null
+    },
+    {
+        "desId": 126,
+        "title": "Ngày thành lập Hội Nông dân Việt Nam",
+        "content": "Ngày 20/5/1991, Ban Bí thư đã ra Chỉ thị số 69 – CT/TƯ về việc Tổ chức kỷ niệm 61 năm Ngày thành lập Hội Nông dân Việt Nam (14/10/1930 – 14/10/1991). Lần đầu tiên Hội Nông dân Việt Nam tổ chức mít tinh kỷ niệm trọng thể 61 năm Ngày thành lập Hội tại Thủ đô Hà Nội, Tổng Bí thư Đỗ Mười tới dự và có bài phát biểu quan trọng. ",
+        "items": null
+    },
+    {
+        "desId": 127,
+        "title": "Ngày thành lập Hội Phụ nữ Việt Nam",
+        "content": "Hội Liên hiệp Phụ nữ Việt Nam (tiếng Anh: Vietnam Women’s Union, viết tắt: VWU) là một tổ chức chính trị, xã hội của phụ nữ Việt Nam, mục đích hoạt động vì sự bình đẳng, phát triển của phụ nữ.",
+        "items": null
+    },
+    {
+        "desId": 128,
+        "title": "Ngày Nhà giáo Việt Nam",
+        "content": "Ngày Nhà giáo Việt Nam (hay Ngày Hiến chương Nhà giáo Việt Nam) là một ngày kỷ niệm được tổ chức hằng năm vào ngày 20 tháng 11 tại Việt Nam. Đây chính là lễ hội của ngành Giáo dục và là Ngày Nhà giáo, ngày “tôn sư trọng đạo” nhằm mục đích để tôn vinh những người dạy học và những người trong ngành giáo dục.",
+        "items": null
+    },
+    {
+        "desId": 129,
+        "title": "Ngày thành lập Quân đội Nhân dân Việt Nam",
+        "content": "Ngày truyền thống là ngày 22 tháng 12 hàng năm.\nQuân đội nhân dân Việt Nam (QĐNDVN) là lực lượng quân sự quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam và là lực lượng nòng cốt của Lực lượng Vũ trang nhân dân Việt Nam. Theo Bộ Quốc phòng Việt Nam, sứ mệnh của quân đội là “vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, vì hạnh phúc của nhân dân”.",
+        "items": null
+    },
+    {
+        "desId": 130,
+        "title": "Tất niên cuối năm 29al",
+        "content": "Tất niên (hay còn gọi là cúng tất niên, làm lễ tất niên hay là tiệc tất niên) là một phong tục tiệc cỗ để ghi dấu việc kết thúc một năm và chuẩn bị bước sang năm mới. Tất niên có thể là một bữa tiệc tất niên, liên hoan cuối năm để bước sang năm mới (Tết Tây) và là một phần trong nghi thức Tết diễn ra vào những ngày cuối năm âm lịch, từ ngày 30 tháng Chạp (nếu là năm đủ) hoặc 29 tháng Chạp (nếu là năm thiếu) được gọi là ngày tất niên. Đây là ngày các thành viên trong gia đình sum họp lại với nhau để ăn cơm buổi tất niên. Ngoài ra, tùy vào phong tục tập quán ở mỗi vùng, việc cúng tất niên có thể được gia chủ mời thêm bạn bè và người thân đến dự.",
+        "items": [
+            [
+                "Đặc điểm",
+                "Tất niên thường diễn ra vào buổi chiều và buổi tối ngày này, người ta làm cỗ cúng tất niên sau đó dọn tiệc mời khách đến dự. Tất niên là lúc mọi người quây quần bên nhau và bên những món thức ăn và cùng chào đón đêm trừ tịch, giao thừa và năm mới là một phong tục tập quán lâu đời của người dân nhiều quốc gia. Riêng đối người Việt Nam, nó mang nét đẹp văn hóa lâu đời của người Việt Nam trong dịp Tết nguyên đán.",
+                "Ngày tất niên có thể là ngày 30 tháng Chạp (nếu là năm đủ) hoặc 29 tháng Chạp (nếu là năm thiếu). Đây là ngày gia đình sum họp lại với nhau để ăn cơm buổi tất niên. Buổi tối ngày này, người ta làm cỗ cúng tất niên. Giữa ngày 30 (hoặc 29) tháng Chạp và ngày mồng 1 Tháng giêng, giờ Tý (từ 23 giờ hôm trước đến 1 giờ hôm sau), trong đó thời điểm bắt đầu giờ Chính Tý (0 giờ 0 phút 0 giây ngày Mồng 1 tháng Giêng) là thời khắc quan trọng nhất của dịp Tết. Nó đánh dấu sự chuyển giao năm cũ và năm mới, nó được gọi là Giao thừa. Để ghi nhận thời khắc này, người ta thường làm hai mâm cỗ. Một mâm cúng gia tiên tại bàn thờ ở trong nhà mình và một mâm cúng thiên địa ở khoảng sân trước nhà. Một số cộng đồng lấy con hổ là vật thờ thì gọi là cúng Ông Ba Mươi. Một số cộng đồng khác thì có một phần cỗ dành để cúng chúng sinh, cúng những cô hồn lang thang không nơi nương tựa.",
+                "Mâm lễ cúng tất niên tùy theo điều kiện gia đình cũng như phong tục tập quán mỗi vùng có thể thịnh soạn hay thanh đạm, tuy nhiên một số thành phần bắt buộc phải có khi cúng theo phong tục của người Việt Nam gồm: hương hoa, vàng mã, đèn nến, trầu cau, rượu, trà, bánh chưng, cỗ mặn được bầy biện đầy đặn, trang nghiêm."
+            ]
+        ]
+    },
+    {
+        "desId": 131,
+        "title": "Tất niên cuối năm 30al",
+        "content": "",
+        "items": null
+    },
+    {
+        "desId": 132,
         "title": "",
         "content": "",
         "items": null
     },
     {
-        "desId": 124,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 125,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 126,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 127,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 128,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 129,
-        "title": "",
-        "content": "",
-        "items": null
-    }, {
-        "desId": 130,
-        "title": "",
-        "content": "",
-        "items": null
-    },{
-        "desId": 131,
-        "title": "",
-        "content": "",
-        "items": null
-    },{
-        "desId": 132,
-        "title": "",
-        "content": "",
-        "items": null
-    },{
         "desId": 133,
-        "title": "",
-        "content": "",
+        "title": "Mùng 1 Tết, Cầu Bình an Năm mới",
+        "content": "Ngày cầu Binh an đầu năm mới của người Công giáo",
         "items": null
-    },{
+    },
+    {
         "desId": 134,
-        "title": "",
-        "content": "",
+        "title": "Mùng 2 Tết, Cầu cho Tổ tiên",
+        "content": "Cầu cho Ông Bà, Tổ Tiên và Các Linh hồn của người Công giáo",
         "items": null
-    },{
+    },
+    {
         "desId": 135,
-        "title": "",
-        "content": "",
+        "title": "Mùng 3 Tết, Thánh hóa Công việc - Học tập",
+        "content": "Cầu xin một năm mới thuận lợi trong Học tập, Công việc của người Công giáo",
         "items": null
-    },{
+    },
+    {
         "desId": 136,
-        "title": "",
-        "content": "",
+        "title": "Tết Nguyên tiêu",
+        "content": "Tết Nguyên Tiêu (Chữ Nho: 節元宵)Tết Thượng Nguyên, Rằm Tháng Giêng là ngày lễ hội truyền thống của Việt Nam và Trung Quốc. Lễ hội trăng rằm từ giữa đêm 14 (đêm trước trăng rằm) trọn ngày 15 (ngày rằm) cho đến nửa đêm 15 (đêm trăng rằm) của tháng giêng Âm lịch.",
         "items": null
-    },{
+    },
+    {
         "desId": 137,
-        "title": "",
-        "content": "",
+        "title": "Đầu tháng âm lịch",
+        "content": "Đây là ngày đầu tiên trong tháng mới âm lịch (chu kỳ mặt trăng)",
         "items": null
-    },{
+    },
+    {
         "desId": 138,
-        "title": "",
-        "content": "",
+        "title": "Ngày Trăng tròn",
+        "content": "Trong âm lịch mà tháng âm bắt đầu từ lúc trăng mới, ngày trăng tròn rơi vào ngày thứ 14 hoặc 15 của tháng âm (trăng rằm hay là ngày rằm).\nTrăng tròn là một trong các pha Mặt Trăng xảy ra khi Mặt Trăng được chiếu sáng toàn bộ khi nhìn từ Trái Đất. Pha này xảy ra khi Mặt Trăng ở vị trí xung đối với Mặt Trời (khi hai thiên thể nằm ở hai phía ngược nhau so với Trái Đất; một cách chính xác hơn, khi kinh độ hoàng đạo của Mặt Trời và Mặt Trăng chênh nhau giá trị 180 độ).[1] Điều này có nghĩa là phần bán cầu của Mặt Trăng hướng về phía Trái Đất (bán cầu gần) được Mặt Trời chiếu sáng toàn bộ và hiện lên như đĩa tròn (trong khi phần bán cầu kia không được chiếu sáng).",
         "items": null
-    },{
+    },
+    {
         "desId": 139,
-        "title": "",
-        "content": "",
-        "items": null
-    },{
+        "title": "Tết Hàn thực",
+        "content": "Tết Hàn Thực hay Tết bánh trôi bánh chay là một ngày tết vào ngày mồng 3 tháng 3 Âm lịch. “Hàn Thực” nghĩa là “thức ăn lạnh”. Ngày tết truyền thống này xuất hiện tại một số tỉnh của Trung Quốc, miền bắc Việt Nam và một số cộng đồng người gốc Hoa trên thế giới. Hàng năm vào ngày này, nhiều gia đình cho xay bột, đồ đỗ xanh, làm bánh trôi, bánh chay (ở Trung Quốc nấu chè trôi nước), nấu xôi chè lễ Phật và cúng gia tiên.",
+        "items": [
+            [
+                "Điển tích Trung Quốc",
+                "Ở Việt Nam, ngày 3 tháng 3 âm lịch ăn tết Hàn thực “phỏng theo người phương Bắc, kỷ niệm ngày Giới Tử Thôi chết cháy”. Hai chữ “Hàn Thực” gắn với một điển tích ở Trung Quốc, được biết tới nhiều qua tiểu thuyết Đông Chu liệt quốc.",
+                "Đời Xuân Thu, vua Tấn Văn Công nước Tấn gặp loạn phải bỏ nước lưu vong, gặp được một hiền sĩ tên là Giới Tử Thôi theo giúp. Về sau, Tấn Văn Công trở về làm vua, phong thưởng cho những người có công nhưng lại quên mất Giới Tử Thôi. Giới Tử Thôi không oán giận gì, về nhà đưa mẹ vào núi ở ẩn. Tấn Văn Công nhớ ra, cho người đi tìm. Vì Giới Tử Thôi không chịu ra lĩnh thưởng, Tấn Văn Công hạ lệnh đốt rừng để ép ông phải ra; cuối cùng, hai mẹ con ông đều chết cháy. Vua thương xót, lập miếu thờ và hạ lệnh kiêng đốt lửa ba ngày, chỉ ăn đồ ăn nguội đã nấu sẵn để tưởng niệm."
+            ]
+        ]
+    },
+    {
         "desId": 140,
-        "title": "",
-        "content": "",
+        "title": "Giỗ tổ Hùng Vương",
+        "content": "Ngày giỗ Tổ Hùng Vương hoặc Lễ hội Đền Hùng hoặc Quốc giỗ là một ngày lễ của Việt Nam. Đây là ngày hội truyền thống của Người Việt tưởng nhớ công lao dựng nước của Hùng Vương.\nNghi lễ truyền thống được tổ chức hàng năm vào mùng 10 tháng 3 Âm lịch tại Đền Hùng ở thành phố Việt Trì, tỉnh Phú Thọ và được người dân Việt Nam trên toàn thế giới kỷ niệm và tôn kính. Tín ngưỡng thờ cúng Hùng Vương đã được Bộ Văn hóa, Thể thao và Du lịch Việt Nam ghi danh vào Danh mục di sản văn hóa phi vật thể quốc gia (đợt 1) và UNESCO công nhận là Di sản văn hóa phi vật thể.",
+        "items": null
+    },
+    {
+        "desId": 141,
+        "title": "Tết Đoan Ngọ",
+        "content": "Tết Đoan Ngọ hoặc Tết Đoan Dương (Hán Việt: 端午節 - Đoan Ngọ Tiết, 端陽節 - Đoan Dương Tiết) (ngày mùng 5 tháng 5 theo âm lịch) là một ngày Tết truyền thống tại một số nước như Trung Quốc, Hồng Kông, Đài Loan, Triều Tiên, Nhật Bản và Việt Nam. Tết Đoan Ngọ tồn tại từ lâu trong văn hóa dân gian phương Đông và có ảnh hưởng đến sinh hoạt văn hóa. Đoan nghĩa là mở đầu, Ngọ là khoảng thời gian từ 11 giờ trưa tới 1 giờ chiều, và ăn Tết Đoan Ngọ là ăn vào buổi trưa.\nĐoan ngọ lúc mặt trời bắt đầu ngắn nhất, ở gần trời đất nhất trùng với ngày hạ chí.\nTết Đoan Ngọ còn được gọi là Tết Đoan dương. Theo triết lý y học Đông phương thì hỏa khí (thuộc dương) của trời đất và trong cơ thể của con người trong ngày Đoan ngọ đều lên đến tột bậc.",
+        "items": [
+            [
+                "Thông tin khác",
+                "Người Việt Nam còn gọi Tết Đoan Ngọ là Tết giết sâu bọ, là ngày phát động bắt sâu bọ, tiêu diệt bớt các loài gây hại cho cây trồng trên cánh đồng, trong đó nhiều loài sâu có thể ăn được và chúng được coi như là chất bổ dưỡng.",
+                "Truyền thuyết về lịch sử ngày mùng 5 tháng năm được lưu truyền khác nhau ở Việt Nam, Trung Quốc, Nhật Bản và Hàn Quốc."
+            ]
+        ]
+    },
+    {
+        "desId": 142,
+        "title": "Ngày Vu Lan",
+        "content": "Vu lan (chữ Hán: 盂蘭, bính âm: yúlán), còn được gọi là lễ báo hiếu, là một trong những ngày lễ chính của Phật giáo (Đại thừa Bắc tông) và phong tục Việt Nam, Trung Hoa.\nLễ này trùng với Tết Trung nguyên của người Hán và cũng trùng hợp với ngày Rằm tháng 7 Xá tội vong nhân của phong tục Á Đông. Theo tín ngưỡng dân gian, là ngày mở cửa ngục, ân xá cho vong nhân nên có lễ cúng cô hồn (vào buổi chiều) cho các vong linh không nơi nương tựa, không có thân nhân trên Dương thế để thờ cúng, và là ngày mọi tù nhân ở địa ngục có cơ hội được xá tội, được thoát sanh về cảnh giới an lành.\nVào (tháng 7 âm lịch), người Việt Nam, người Trung Quốc theo phong tục dân gian tin là tháng không may mắn và có những điều kiêng kỵ, cũng như là khuyến khích ăn chay và làm việc từ thiện. Ở Việt Nam, tháng 7 âm lịch cũng bị nhiều coi là thời gian xui xẻo nhất trong năm và phải kiêng kỵ nhiều thứ. Có ý kiến cho rằng quan niệm này không có trong phong tục của người Việt.",
+        "items": null
+    },
+    {
+        "desId": 143,
+        "title": "Tết Trung thu",
+        "content": "Tết Trung thu (chữ Nôm: 節中秋; tiếng Trung: 中秋節 (Trung thu tiết)/ Zhōngqiū jié; Tiếng Hàn: 한가을 축제; Tiếng Nhật: お月見の日、中秋節(ちゅうしゅうせつ)、; Tiếng Anh: Mid-autumn Festival) còn được gọi là Tết trông Trăng hay Tết hoa đăng theo Âm lịch là ngày Rằm tháng 8 hằng năm, là một lễ hội truyền thống được kỉ niệm ở văn hóa của Việt Nam. Một văn hoá lâu đời từ Trung Quốc nhưng đến hiện tại đã phát triển thành ngày trẻ em của Việt Nam. Vào ngày lễ này, các gia đình thường ăn bánh nướng, bánh dẻo, uống trà hoặc rượu, trẻ em thì đeo mặt nạ, rước đèn lồng. Cúng rằm cũng là một hoạt động trong ngày lễ này.\nLễ hội Trung Thu có lịch sử hơn 3.000 năm, được tổ chức vào ngày 15 tháng 8 âm lịch của lịch Trung Quốc, khi trăng tròn vào ban đêm, tương ứng với giữa tháng 9 đến đầu tháng 10 trong lịch Gregory. Vào ngày này, người Trung Quốc tin rằng Mặt trăng sáng nhất và tròn nhất, trùng với thời điểm thu hoạch giữa mùa Thu.",
         "items": null
     },
     {
