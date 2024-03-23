@@ -106,26 +106,46 @@
     },
     {
         "desId": 5,
-        "title": "",
-        "content": "",
-        "items": null
+        "title": "Lễ Thánh Gia",
+        "content": "Thánh gia hay Thánh gia thất, (tiếng Anh: Holy Family) là từ để chỉ về một gia đình gồm 3 thành viên, trong đó người cha là Giuse, người mẹ là Maria và người con trai là Giêsu.",
+        "items": [
+            [
+                "Lich sử",
+                "Việc tôn kính Thánh gia trong giáo hội Công giáo chính thức bắt đầu vào thế kỷ 17 bởi Giám mục Chân Phước François de Laval, người Canada gốc Pháp, vị giám mục đầu tiên của Québec. Dòng Đa Minh và dòng Phanxicô cũng đã góp một phần lớn vào phong trào sùng kính Thánh gia này."
+            ],
+            [
+                "Lễ kính Thánh gia",
+                "Lễ Thánh Gia bắt đầu trước tiên từ Canada, dần dần lòng sùng mộ Thánh Gia lan rộng ra khắp hoàn cầu. Thời kỳ này, người ta nhận thấy các gia đình bị tục hóa, nhiều gia sản thiêng liêng, các giá trị của gia đình bị tiêu tán. Có nguy cơ gia đình bị băng hoại hoàn toàn. Vì vậy tín hữu tìm tới gia đình gương mẫu Thánh Gia để giúp các gia đình công giáo sống đạo và sống ơn bí tích hôn phối.",
+                "Năm 1893, Giáo hoàng Lêô XIII cho tổ chức lễ kính Thánh Gia vào ngày Chúa nhật trong tuần lễ Bát Nhật của Lễ Ba Vua, nghĩa là trong khoảng từ ngày 07 tháng 01 đến ngày 13 tháng 01 của năm.",
+                "Hiện nay là lễ Thánh gia thất được cử hành vào Chúa nhật ngay sau lễ Giáng Sinh. Nếu Lễ Giáng Sinh và tết Dương Lịch rơi vào Chúa nhật (tức là không có Chúa nhật nào ở khoảng giữa), lễ Thánh Gia Thất sẽ được cử hành vào ngày 30 là ngày thứ sáu."
+            ],
+            [
+                "Ý nghĩa lễ Thánh gia",
+                "Như vậy việc mừng lễ Thánh gia có chủ đích thần học là để ca tụng tôn vinh Ba Đấng Thánh trong nhà Nazareth. Việc này nhằm giới thiệu cho các gia đình Công giáo về một gia đình kiểu mẫu trong kinh Thánh để học tập theo."
+            ]
+        ]
     },
     {
         "desId": 6,
-        "title": "",
-        "content": "",
-        "items": null
+        "title": "Lễ Hiển linh",
+        "content": "Lễ Hiển Linh (tiếng Anh: Epiphany, từ tiếng Hy Lạp: ἐπιφάνεια) là một trong những lễ quan trọng lâu đời nhất trong niên lịch Kitô giáo, theo truyền thống được cử hành vào ngày 6 tháng 1, mừng kính sự biểu lộ mình ra của Đức Giêsu Kitô, là Ngôi Hai Thiên Chúa nhập thể làm người. Trong Kitô giáo Tây phương, lễ này chủ yếu kỷ niệm sự viếng thăm và chiêm bái Đức Giêsu của ba đạo sĩ (hay là ba vua, ba nhà thông thái). Lễ Hiển Linh được giáo luật quy định là ngày lễ trọng buộc (buộc kiêng việc xác và buộc tham dự thánh lễ vào chính ngày lễ hoặc chiều hôm trước ngày lễ), tuy nhiên nơi nào lễ Hiển Linh không phải là lễ buộc thì sẽ được mừng kính vào ngày Chúa Nhật trong khoảng từ ngày 2 đến ngày 8/1 như ngày riêng của lễ đó.",
+        "items": [
+            [
+                "Lịch sử",
+                "Lễ Hiển Linh có nguồn gốc là một ngày lễ cổ xưa của người Kitô giáo tương tự với lễ Giáng Sinh và lễ Phục Sinh. Thời giáo hội sơ khai, chỉ có ngày lễ Phục Sinh là được cử hành đặc biệt hằng năm và mỗi ngày chủ nhật được xem như một ngày “tiểu phục sinh”. Đến thế kỷ thứ III, tại Đông phương và Tây phương, xuất hiện các ngày lễ trọng mừng kính mầu nhiệm Thiên Chúa nhập thể làm người. Trong khi tại Tây phương, lễ Giáng Sinh được cố định vào ngày 25 tháng 12, thì ở Đông phương lễ được cử hành vào ngày 6 tháng 1. Sau đó, ngoại trừ các giáo đoàn Armenia, tất cả các giáo hội Đông phương khác dần chuyển sang mừng kính Giáng Sinh vào 25 tháng 12 giống như Tây phương, còn ngày 6 tháng 1 dần chuyển thành lễ Hiển Linh. Từ Đông phương, lễ Hiển Linh lan sang Châu Âu vào khoảng thế kỷ thứ 4 và được nói đến lần đầu tiên tại xứ Gaule vào năm 361. Đến cuối thế kỷ 21, hầu hết các Giáo hội đều cử hành ngày lễ trọng này."
+            ]
+        ]
     },
     {
         "desId": 7,
-        "title": "",
-        "content": "",
+        "title": "Lễ Chúa Giêsu chịu phép rửa",
+        "content": "Giêsu chịu phép rửa bởi Gioan Tẩy Giả là một sự kiện lớn trong cuộc đời của Chúa Giêsu được mô tả trong ba Phúc Âm: Mátthêu, Máccô và Luca. Sự kiện này được nhìn nhận là đã xảy ra tại Al-Maghtas, nay thuộc Jordan. Cùng với sự kiện bị đóng đinh, hầu hết các nhà thần học hiện đại xem việc Giêsu nhận phép rửa bởi Gioan là một sự kiện có thể mang tính lịch sử chắc chắn cao, và các học giả Kinh Thánh xem đây là hai sự kiện chắc chắn về ông, và thường lấy đó làm điểm khởi đầu cho việc nghiên cứu về Giêsu.\nHầu hết các nhánh hoặc giáo phái Kitô giáo xem việc Giêsu chịu phép rửa là một sự kiện quan trọng và là cơ sở cho nghi thức rửa tội của Kitô giáo. Trong Kitô giáo Đông phương, lễ Chúa Giêsu chịu phép rửa được cử hành vào ngày 6 tháng 1 (ngày theo lịch Julian, tương ứng với ngày 19 tháng 1 theo lịch Gregory).\nTrong Giáo hội Công giáo Rôma, Khối hiệp thông Anh giáo, các Giáo hội Luther và một số giáo phái phương Tây khác, lễ này thường được cử hành vào Chủ nhật ngay sau Lễ Hiển Linh.",
         "items": null
     },
     {
         "desId": 8,
-        "title": "",
-        "content": "",
+        "title": "Lễ Đức Mẹ dâng Chúa Giêsu trong đền thánh",
+        "content": "Lễ Maria dâng Chúa Giêsu trong đền thánh hay còn gọi là Lễ Nến, Lễ Thanh Tẩy là một lễ kính nhớ việc Đức Maria được thanh tẩy theo luật Môsê, 40 ngày sau khi sinh Đức Giêsu.\n\nSự kiện dâng Chúa Giêsu vào đền thánh và thanh tẩy Đức Trinh Nữ đã được Luca ghi lại (Lc 2,22-39). Sự kiện này nhằm thực hiện những lề luật đã được ghi rõ trong Cựu ước (Lv 12,8). Theo luật Môsê, phụ nữ sau khi sinh con thì bị coi là nhơ uế trong 40 ngày nếu sinh con trai và trong 80 này nếu sinh con gái.\nLễ này được du nhập vào Đế quốc Đông Phương dưới triều vua Justinianô (527-565). Đối với Hội thánh Tây phương, lễ này được nhắc đến trong sách bí tích của Giáo hoàng Gelasianô vào thế kỷ 7. Kể từ cuối thế kỷ IV, Giáo hội Giêrusalem đã mừng kính lễ này. Giáo hội Hy Lạp và Milanô kể lễ này vào một số lễ trọng kính Chúa, một nghi lễ chính trong năm. Giáo hội Rôma lại thường kể lễ này vào số các lễ Đức Trinh Nữ.",
         "items": null
     },
     {
@@ -135,7 +155,321 @@
         "items": null
     },
     {
+        "desId": 10,
+        "title": "Thứ Tư Lễ Tro",
+        "content": "Thứ tư Lễ Tro (tiếng Anh: Ash Wednesday) là một ngày lễ của Cơ đốc giáo tập trung vào cầu nguyện và ăn chay. Nó đến sau Thứ ba Xưng Tội và là ngày bắt đầu Mùa Chay, sáu tuần lễ sám hối trước Lễ Phục sinh. Theo truyền thống, ngày Thứ tư Lễ Tro được các Kitô hữu phương Tây thực hiện, gồm những người Công giáo thuộc Nghi thức La Mã, Anh giáo, Luther, Phong trào Giám lý, Giáo hội Moravia và Công giáo độc lập, cũng như nhiều người từ đức tin Cải cách (bao gồm các truyền thống Công giáo, Cải cách lục địa và Giáo hội Trưởng lão).",
+        "items": [
+            [
+                "Lịch sử hình thành ngày lễ tro",
+                "Trong những thế kỉ đầu của Kito giáo, mùa chay đã được thực hiện. Từ buổi đầu sơ khai, tro được dùng với các ý nghĩa biểu tượng của nó như rắc lên đầu những người bị buộc tội và sám hối công khai, họ phải “sống u buồn sầu thảm trong sự thô ráp của áo vải nhặm và tro bụi dơ dáy”."
+            ],
+            [
+                "Ý nghĩa của ngày lễ tro",
+                "Lễ Tro là dip nói lên tinh thần xám hối và sự khiêm nhường, là dịp để các tín đồ nhìn nhận lại thân phận cát bụi của mình.",
+                "Khi tham dự lễ tro, các tín đồ sẽ được rắc tro trên đầu với quan niệm “con người xuất thân từ tro bụi và cũng sẽ trở về từ tro bụi”. Quan niệm này dựa trên Kinh thánh “Ngươi sẽ phải đổ mồ hôi mới có bánh ăn, cho đến khi trở về với đất, vì từ đất, ngươi đã được lấy ra. Ngươi là bụi đất và sẽ trở về với bụi đất”."
+            ],
+            [
+                "Những chú ý vào mùa chay",
+                "1. Màu lễ áo tím, không đọc Kinh Vinh Danh, không trưng bông hoa trên bàn thờ, không dùng đàn trong thánh lễ, bụi tro được dùng cho thấy tính thống hối của Mùa Chay và thân phận của con người.",
+                "2. Thứ tư Lễ Tro và Thứ sáu tuần thánh trước ngày Đại lễ Phục Sinh: ăn chay và kiêng thịt."
+            ],
+            [
+                "Luật ăn chay và kiêng thịt",
+                "Trẻ em từ 14 đến 17 tuổi: Kiêng thịt",
+                "Không ăn thịt, nhưng được ăn trứng, cá, các thứ chế biến từ sữa"
+            ]
+        ]
+    },
+    {
+        "desId": 11,
+        "title": "",
+        "content": "",
+        "items": null
+    },
+    {
+        "desId": 12,
+        "title": "Chúa Nhật Lễ Lá",
+        "content": "Chúa Nhật Lễ Lá (tiếng Anh: Palm Sunday) là Chúa Nhật trước Chúa Nhật Phục Sinh, là Chúa Nhật cuối cùng của Mùa Chay và Tuần Thánh được bắt đầu từ ngày này. Trong Giáo hội Tây phương, Chúa Nhật Lễ Lá luôn luôn rơi vào một chủ nhật giữa ngày 15 tháng 3 và 18 tháng 4.\nChúa Nhật Lễ Lá là một ngày lễ quan trọng của người Kitô giáo, kỷ niệm một sự kiện được viết trong bốn sách Phúc âm quy điển (Máccô 11: 1-11, Matthêu 21: 1-11; Luca 19: 28-44; và Gioan 12: 12-19) kể về việc Chúa Giêsu tiến vào thành Giê-ru-sa-lem trước khi chịu khổ hình.\nCác buổi lễ thờ phượng vào ngày này bao gồm một đoàn rước kiệu diễu hành với lá cọ trên tay, đại diện cho đám đông mang lá cọ chào mừng Chúa Giêsu khi ngài tiến vào thành Giê-ru-sa-lem.",
+        "items": [
+            [
+                "Thông tin thêm",
+                "Truyền thống lễ này sử dụng lá cọ trong các nghi lễ, nhưng vì ở các vùng miền khác nhau có thể không có cọ hoặc khó tìm được, dẫn tới việc thay thế lá cọ bằng những cành cây thủy tùng, cây liễu hay những cái cây bản xứ khác. Ở Việt Nam, hầu hết các nhà thờ sử dụng lá dừa hoặc dừa nước.",
+                "Biểu tượng con lừa có thể đề cập đến truyền thống phương Đông rằng nó là một con vật của hòa bình, so với ngựa là động vật biểu tượng cho chiến tranh. Một vị vua sẽ cưỡi một con ngựa khi ông đang mong muốn chiến tranh và sẽ cưỡi một con lừa tượng trưng cho việc ông đến trong hòa bình. Việc Chúa Giêsu tới thành Giê-ru-sa-lem trên con lừa trở thành biểu tượng của ông như là Hoàng tử Hòa bình, không phải một vị vua ưa chiến tranh."
+            ]
+        ]
+    },
+    {
+        "desId": 13,
+        "title": "Lễ Truyền Dầu",
+        "content": "Lễ Truyền Dầu hay còn gọi là Lễ Dầu, thường được cử hành vào Thứ Ba Tuần Thánh, thường diễn ra vào tháng 4 hàng năm, trước Lễ Phục sinh (lễ kỷ niệm Chúa Giêsu sống lại, vào một ngày của tháng 4 (Chủ nhật đầu tiên sau ngày trăng tròn).",
+        "items": [
+            "Thông tin khác",
+            "Lễ Truyền Dầu được biết đến là một dịp lễ đặc biệt, thực hiện mục đích tưởng niệm việc Thiên chúa cử hành bí tích Truyền chức Linh mục cho một số người để phát triển Giáo hội. ",
+            "Trong Thánh lễ này, các Linh mục tham dự sẽ lặp lại lời hứa khi được truyền chức trước mặt Giám mục địa phận về trách nhiệm phục vụ Giáo hội, nguyện dấn thân noi gương Thiên Chúa và các Thánh trong Giáo hội để xây dựng Giáo hội ngày càng phát triển, vững mạnh. Đồng thời, Giám mục địa phận với vai trò chủ lễ sẽ thực hiện nghi thức Thánh hiến Dầu Thánh, Dầu dự tòng và Dầu bệnh nhân để sử dụng vào các mục đích khác nhau.",
+            "Trong đó, Dầu thánh (SC - Sanctum Chrisma) sẽ được sử dụng trong bí tích Thánh Tẩy, Thêm Sức, Truyền Chức Thánh và Thánh hiến bàn thờ tại các Thánh đường; Dầu Dự tòng (OS - Oleum Sanctum hay Oleum Catechumenorum) được dùng khi cử hành nghi thức Rửa tội nhập đạo đối với những người mới theo đạo tham gia các lớp học giáo lý về đạo Công giáo. Còn Dầu Bệnh nhân (OI - Oleum Infirmorum) dùng để xức lên người các bệnh nhân với mong muốn xin Thiên Chúa xoa dịu thân xác các bệnh nhân, làm thuyên giảm những đau đớn và có được những chuyển biến tích cực về sức khỏe."
+        ]
+    },
+    {
+        "desId": 14,
+        "title": "Thánh Lễ Tiệc Ly",
+        "content": "Thánh Lễ Tiệc Ly là một trong những ngày lễ trọng đại và có nhiều ý nghĩa của người Công giáo.\nTheo các sách phúc âm, Tiệc Ly (Last Supper) là bữa ăn sau cùng Chúa Giêsu chia sẻ với các môn đồ trước khi Ngài chết. Trong bữa Tiệc Ly, khi cầm bánh và rượu nho, Chúa Giêsu bảo các môn đồ rằng: “Hãy làm điều này để nhớ đến ta” (trích 1 Cor 11.23-25).",
+        "items": null
+    },
+    {
+        "desId": 15,
+        "title": "Cuộc thương khó của Giêsu",
+        "content": "Cuộc Thương khó hay cuộc Khổ nạn (tiếng Latinh: Passio) là khoảng thời gian sau hết trong cuộc đời trần thế của Giê-su Ki-tô, gồm những sự khổ đau Chúa Giêsu chịu đựng trong các sự kiện dẫn đến và xuyên suốt cuộc khổ hình trên thập tự giá, biến cố cao trào được xem là tâm điểm trong thần học Kitô giáo về lịch sử cứu độ.\nViệc tưởng nhớ cuộc thương khó thường bắt đầu với sự kiện Giêsu tiến vào thành Jerusalem, thiết lập Hy lễ Tạ ơn tại bữa Tiệc Ly, bị bắt giữ tại vườn Gethsemane, bị xét xử tại Thượng Hội đồng của người Do Thái và bị kết án tại phiên tòa của Pilatus, cho tới việc bị đóng đinh và chết trên thánh giá. Cuộc thương khó của Giêsu được tưởng niệm trong Tuần Thánh và được coi là trọng tâm và đỉnh cao trong phụng vụ Kitô giáo.",
+        "items": null
+    },
+    {
+        "desId": 16,
+        "title": "Phục Sinh - Mừng Chúa sống lại",
+        "content": "Lễ Phục Sinh thường được xem là một trong những ngày lễ quan trọng nhất trong năm của người theo Kitô giáo. Thường diễn ra vào tháng 3 hoặc tháng 4 mỗi năm để tưởng niệm sự kiện chết và Phục sinh của Giê-su từ cõi chết sau khi bị đóng đinh trên thập tự giá. Được người Kitô hữu tin là đã xảy ra vào khoảng năm 30 đến năm 33. Phục Sinh cũng được dùng để chỉ một mùa trong năm phụng vụ Công giáo gọi là Mùa Phục Sinh, kéo dài đúng 50 ngày, từ Chúa Nhật Phục Sinh đến Lễ Hiện Xuống.",
+        "items": [
+            [
+                "Trứng Phục Sinh và thỏ",
+                "Theo một phong tục cổ từ những người Ai Cập, Ba Tư (Perse) vào ngày Xuân phân (21/03), bắt đầu một năm mới, bạn bè thường trao đổi cho nhau các quả trứng có tô điểm màu sắc, vì coi đó như là điều tốt lành, vì từ trứng xuất hiện lên sự sống.",
+                "Trứng Phục Sinh (như là Pysanky) chào mừng các ngày lễ Phục Sinh thường được trang trí đặc biệt. Phong tục cổ của quả trứng Phục Sinh có thể đã bắt đầu trong cộng đồng Kitô hữu tại vùng Lưỡng Hà (Iraq, đông Syria, đông nam Thổ Nhĩ Kỳ, và tây nam Iran), trứng được nhuộm đỏ để tưởng niệm máu của Chúa Kitô đã đổ ra lúc bị đóng đinh."
+            ]
+        ]
+    },
+    {
+        "desId": 17,
+        "title": "Tuần bát nhật Phục sinh",
+        "content": "Giáo hội nhận ra rằng cần nhiều hơn là 1 ngày để chiêm ngắm và cảm nghiệm những gì Thiên Chúa mạc khải trong các mầu nhiệm cao cả được cử hành trong các ngày lễ chính của đức tin. Vì thế, Tuần Bát nhật là một phương thế giúp các tín hữu có thời gian để ghi khắc vào tâm hồn những mầu nhiệm, niềm vui và ân sủng của các lễ trọng trong năm Phụng vụ.\nBát nhật là tuần đầu tiên trong chuỗi những tuần của năm mươi ngày sau Đại lễ Phục Sinh. Bát nhật Phục Sinh có đặc tính của Bí tích Thánh Tẩy; Giáo hội cổ thời đã dùng Tuần Bát nhật để hoàn tất việc giáo huấn các tân tòng. Một số bài giáo huấn quan trọng của các Giáo phụ hay các nhà tu đức được phụng vụ Giáo hội đưa vào trong các bài đọc Kinh Sách Tuần Bát nhật Phục Sinh. Những lời giáo huấn cho các tín hữu xưa kia vẫn còn giá trị và rất thiết thực cho các tân tòng cũng như cho mọi phần tử trong Giáo hội ngày nay.",
+        "items": null
+    },
+    {
+        "desId": 18,
+        "title": "Chuỗi kinh Lòng Chúa Thương xót",
+        "content": "Chuỗi Kinh Lòng Chúa Thương xót, hay còn được gọi là Chuỗi Thương xót, là một lời cầu nguyện của người Công giáo hướng đến lòng thương xót của Thiên Chúa Cha.\nLời cầu nguyện Công giáo này thường được đọc với tràng hạt mân côi giống như khi đọc Kinh Mân Côi, nhưng Kinh Lạy Cha và Kinh Kính Mừng được thay thế bằng những lời cầu nguyện riêng biệt.",
+        "items": [
+            [
+                "Nguồn gốc",
+                "Vào ngày 13 tháng 9 năm 1935, chính Chúa Giêsu Kitô đã dạy chuỗi kinh này cho nữ tu Faustina Kowalska (1905-1938), điều này sau đó được Vantican công nhận là đúng sự thật, nhờ đó Faustina Kowalska được Vantican tôn phong là Tông đồ Lòng Chúa Thương xót và được Đức Giáo hoàng Gioan Phaolô II phong thánh vào tháng 4 năm 2000."
+            ]
+        ]
+    },
+    {
+        "desId": 19,
+        "title": "Lễ Truyền tin",
+        "content": "Lễ Truyền Tin kỷ niệm sự kiện sứ thần Gabriel truyền tin cho Trinh nữ Maria rằng cô sẽ thụ thai qua quyền năng của Chúa Thánh Linh và trở thành mẹ của Chúa Giêsu, Con Thiên Chúa. Ngày lễ này được mừng kính vào 25 tháng 3, đúng chín tháng trước Lễ Giáng Sinh.\nTheo Phúc âm Luca 1:26, sự kiện Truyền Tin cho Maria diễn ra khi bà chị họ của Maria là Elizabeth đang mang thai Gioan Baotixita được sáu tháng. Cả Giáo hội Công giáo Rôma và Chính thống giáo Đông phương đều tin rằng, sự kiện truyền tin xảy ra tại Nazareth, tại đây có ngôi Nhà thờ Truyền Tin để kỷ niệm. Truyền tin cũng là một chủ đề quan trọng trong nghệ thuật Kitô giáo nói chung, cũng như trong nghệ thuật về Đức Mẹ của Công giáo Rôma nói riêng, đặc biệt là trong thời Trung Cổ và Phục Hưng.",
+        "items": null
+    },
+    {
         "desId": 20,
+        "title": "Lễ Chúa Chiên lành",
+        "content": "Chúa Giêsu là vị mục tử nhân lành, luôn yêu thương chiên của Người, dù chiên ngỗ nghịch, phản bội, hay yếu đuối. Lúc nào Người cũng tìm kiếm chiên lạc, hi sinh cứu chiên và qui tụ những chiên quanh một vị mục tử duy nhất, để tất cả được sống trong hiệp nhất, hòa thuận, yêu thương và bình an.",
+        "items": null
+    },
+    {
+        "desId": 21,
+        "title": "Lễ Thánh Giuse Thợ",
+        "content": "Đời sống lao động luôn gắn liền với con người: người ta có thể làm việc chân tay và có người dùng tới trí óc. Tất cả đều là lao động.Có một thời giới thợ thuyền đã đứng lên tranh đấu để nâng cao phẩm giá và nâng cao đời sống của họ vào cuối thế kỷ XIX và đầu thế kỷ thứ XX tại Aâu Châu. Nhiều phong trào đấu tranh đã nổi dậy đòi giới chủ ông phải tăng lương và xem xét lại giờ giấc, điều kiện lao động. Giáo Hội qua các vị lãnh đạo tinh thần đã lắng nghe tiếng nói, tiếng cầu cứu của họ. Đức Thánh Cha Lêô XIII và Piô XI đã mở ra những chân trời mới trong giới lao động. Đức Giáo Hoàng Piô XII đã chọn Thánh Giuse làm bổn mạng của giới cần lao. Thế giới đã dùng ngày 01 tháng năm để mừng ngày lễ lao động.",
+        "items": [
+            [
+                "Thánh Giuse",
+                "Thánh Giuse sinh tại Nagiarét, một thôn nhỏ bé và nghèo thuộc nước Do Thái. Thánh Giuse thuộc hoàng tộc vua Đavít, nhưng vì gia cảnh sau bao nhiêu đời, bao nhiêu thế hệ lâm cảnh sa sút, nên thánh Giuse phải sống cuộc đời khó khăn, nghèo nàn với nghề thợ mộc để kiếm sống, nuôi gia đình. Thánh Giuse là một người lao động chân chính. Cuộc đời của Ngài là một chuỗi những thử thách triền miên. Tuy nhiên, Thiênn Chúa đã chọn Ngài làm bạn Đức Trinh Nữ Maria và là Cha của Chúa Giêsu Cứu Thế. Suốt đời của Ngài năm chìm bảy nổi chín long đong. Được chọn lựa làm bạn với Mẹ Maria để săn sóc Con Một Thiên Chúa và để giúp nhau sống đời tận hiến hoàn toàn cho Thiên Chúa. Thánh Giuse đã gặp thử thách ngay khi đính hôn với Maria. Đức Trinh Nữ Maria đã thụ thai bởi phép Chúa Thánh Thần:” Và này đây bà sẽ thụ thai, sinh hạ một con trai, và đặt tên là Giêsu”( Lc 1, 31). “ Thánh Thần sẽ ngự xuống trên bà, và quyền năng Đấng Tối Cao sẽ rợp bóng trên bà…”( Lc 1, 35 ). Thánh Giuse lúc đó chưa hiểu ý Chúa, nên Ngài đã bị thử thách lớn lao. Rồi, thánh Giuse và Mẹ Maria đi về quê quán làm sổ hộ khẩu, Mẹ Maria tới ngày mãn nguyệt khai hoa, đã đản sinh Chúa Giêsu nơi hang đá Bêlem(Lc 2, 1-20 ). Như thế vẫn chưa hết, khó khăn và thử thách hầu như lúc nào cũng gắn liền với thánh Giuse: thánh Giuse đưa Mẹ Maria, Chúa Giêsu trốn qua Ai Cập để tránh sự tàn bạo của Hêrôđê, rồi khi Hêrôđê băng hà, Ngài lại đưa Mẹ Maria và Hài Nhi Giêsu trở về Nagiarét( Mt 2, 13-23 ). Rồi tới tuổi, thánh Giuse lại đưa Chúa Giêsu cùng với Mẹ Maria dâng Chúa vào đền thờ: Oâng già Siméoon nói ngôn sứ về Hài Nhi( Lc 2, 22-28 ). Trong mọi biến cố, trong mọi sự chông gai khó khăn, thánh Giuse luôn can đảm, phó thác và sống hoàn toàn công chính, tin cậy tuyệt đối vào sự quan phòng của Thiên Chúa Giavê. Thánh Giuse đã được các thánh sử viết Tin Mừng ca ngợi là người công chính, người được ơn nghĩa với tHiên Chúa. Giáo Hội ca ngợi thánh Giuse:” Người công chính tươi tốt như cây dừa, lớn lên như cây hương nam núi Liban trồng nơi nhà Chúa trong đền thánh Người (Tv 92, 13-14 ) và ca nhập lễ, lễ thánh Giuse 19/3 đã viết:” Đây là người quản gia trung tín và khôn ngoan. Chúa đã đặt lên coi sóc gia đình Chúa”( Lc 12, 42 ). Thánh Giuse quả thực trở thành gương mẫu cho mọi người về mọi nhân đức."
+            ],
+            [
+                "Thánh Giuse là gương mẫu lao động cần cù",
+                "Đứng đầu gia đình thánh tại Nagiarét, thánh Giuse đã cần cù lao động, âm thầm thinh lặng và làm việc, đưa lại cho lao động một ý nghĩa cao sâu linh thánh. Thánh Giuse đã chấp nhận một công việc, một nghề tay chân: nghề thợ mộc. Với nghề thợ mộc, một nghề không có gì là vinh dự lắm trong xã hội Do Thái, thánh Giuse vẫn kiên trì phục vụ. Ngài làm việc với tất cả ý thức trách nhiệm của mình. Qua việc làm, qua nghề thợ mộc, thánh cả Giuse đã âm thầm chiêm ngắm mầu nhiệm nhập thể của Con Thiên Chúa là Đức Giêsu Kitô, Đấng đang sống nhờ nghề thợ mộc của Ngài. Nơi Nagiarét, thánh Giuse đã phục vụ hết mình: mồ hôi, sự mệt nhọc và lòng hy sinh, quảng đại cố gắng của thánh Giuse đã mặc cho lao động một ý nghĩa tốt đẹp.  Chúa Giêsu trong gia đình thánh nagiarét đã học nơi thánh Giuse sự cần mẫn lao động, đã học nơi Mẹ Maria sự kiên nhẫn, đơn sơ phục vụ trong những công việc gia đình hết sức tầm thường nhưng là những công việc của đời thường, là những lao công của cuộc đời con người. Khởi đi từ gia đình Nagiarét, người Kitô hữu trên khắp thế giới cũng được mời gọi yêu mến lao động dù là lao động chân tay hay lao động trí óc. Tất cả đều được gọi mời gắn liền với thánh cả Giuse, quan thầy và là Đấng bảo trợ của giới lao động. Trong một thế giới đan xen ánh sáng và bóng tối, trong một thế giới văn minh tuyệt đỉnh, lao động dù trí óc, chân tay hay kỹ thuật máy móc điện tử vẫn luôn cần thiết. Sự im lặng: nói ít, làm với hết khả năng, với óc sáng tạo luôn được đề cao, trân trọng. Thánh Giuse đã im lặng để phục vụ, để làm việc. Sự thinh lặng nội tâm của Ngài luôn có một ý nghĩa quan trọng. Thánh Giuse đã luôn nêu cao tinh thần trách nhiệm: làm việc với đức tin , với lòng yêu mến."
+            ]
+        ]
+    },
+    {
+        "desId": 22,
+        "title": "Lễ vọng Lễ Chúa Thăng Thiên",
+        "content": "Diễn ra trước ngày Lễ Chúa Thăng Thiên, nhằm chuẩn bị tâm hồn và tinh thần cho ngày lễ trọng",
+        "items": null
+    },
+    {
+        "desId": 23,
+        "title": "Lễ Chúa Thăng Thiên",
+        "content": "Lễ Chúa Thăng Thiên hay Lễ Chúa Giêsu Lên Trời là một ngày lễ của Kitô giáo được cử hành sau Lễ Phục Sinh bốn mươi ngày (tính từ Chúa Nhật Phục Sinh). Do đó, lễ này luôn rơi vào một ngày Thứ Năm, nhưng thường mừng kính trọng thể vào ngày Chủ Nhật của tuần đó. Lễ Thăng Thiên diễn tiến theo ý nghĩa nội dung Tân Ước, theo đó, sau khi Chúa Giêsu sống lại, ngài đã ở lại cùng với các môn đồ trong bốn mươi ngày, sau đó lên trời để kết thúc sự hiện diện của ngài giữa loài người trần thế. Một số nhánh Kitô giáo cử hành Lễ Thăng Thiên một cách trang trọng vào một ngày Chủ Nhật kế tiếp.",
+        "items": null
+    },
+    {
+        "desId": 24,
+        "title": "Lễ vọng Chúa Thánh Thần hiện xuống",
+        "content": "Chuẩn bị tâm hồn sạch sẽ, trong sáng để đón nhận ơn chúa Thánh thần.",
+        "items": null
+    },
+    {
+        "desId": 25,
+        "title": "Lễ Chúa Thánh Thần Hiện Xuống",
+        "content": "Lễ Chúa Thánh Thần Hiện Xuống (hoặc lễ Hiện xuống, lễ Giáng xuống, lễ Hạ trần) là một ngày lễ của Kitô giáo được cử hành vào ngày thứ năm mươi bắt đầu từ ngày lễ Phục sinh. Tên gọi ngày lễ này trong tiếng Hy Lạp nghĩa là ngày thứ năm mươi cho nên đây cũng được gọi là Lễ Ngũ Tuần (tuần ở đây được hiểu là khoảng thời gian mười ngày).\nNgày thứ 40 kể từ sau ngày Lễ Phục Sinh có ngày lễ Chúa Giêsu lên trời (tức Lễ Thăng Thiên, rơi vào ngày Thứ năm) nhưng thường được dời vào ngày Chúa nhật kế tiếp. Ngày thứ 50 kể từ sau ngày Lễ Phục Sinh là ngày Lễ Ngũ Tuần kỉ niệm Chúa Thánh Thần hiện xuống với các tông đồ theo Tân Ước, ngày này cũng được coi là ngày khai sinh ra Giáo hội.",
+        "items": null
+    },
+    {
+        "desId": 26,
+        "title": "Lễ Đức Trinh Nữ Maria, Mẹ Hội Thánh",
+        "content": "Lễ nhớ Đức Trinh Nữ Maria, Mẹ Hội Thánh nhắc nhở chúng ta vai trò Mẹ thiêng liêng của Đức Maria. Đây chính là ý muốn của Chúa Giêsu: Đức Maria là Mẹ của tất cả mọi tín hữu và do đó Mẹ Hội Thánh qua một hành động ủy thác.",
+        "items": null
+    },
+    {
+        "desId": 27,
+        "title": "Lễ Chúa Ba Ngôi",
+        "content": "Lễ Chúa Ba Ngôi là Đại Lễ mừng kính mầu nhiệm Thiên Chúa Ba Ngôi Chí Thánh hay được gọi là Trinitatis trong tiếng La-tinh. Theo giáo lý của hầu hết các Giáo hội thuộc cộng đồng Kitô giáo, Thiên Chúa là duy nhất, hiện hữu trong ba ngôi vị là Chúa Cha, Chúa Con và Chúa Thánh Linh (Chúa Thánh Thần).",
+        "items": null
+    },
+    {
+        "desId": 28,
+        "title": "Đức Maria thăm viếng bà Êlisabeth",
+        "content": "Sứ điệp: Việc Đức Maria thăm viếng gia đình ông Gia-ca-ri-a và bà Ê-li-sa-bét vừa có tính cách bác ái vừa là truyền giáo. Truyền giáo là cùng với Chúa Giêsu đến chia sẻ niềm vui nỗi buồn của kẻ khác và phục vụ họ.",
+        "items": null
+    },
+    {
+        "desId": 29,
+        "title": "Lễ Mình và Máu Chúa Kitô",
+        "content": "Ngày lễ Mình và Máu Thánh Chúa hoặc lễ trọng Mình Thánh và Máu Chúa Kitô, Máu và Mình Thánh Chúa (tiếng Latinh: Sollemnitas Sanctissimi Corporis et Sanguinis Christi) là một lễ trọng trong năm phụng vụ của Giáo hội Công giáo. Lễ này nhằm kỷ niệm cho tín điều về sự hiện diện của Chúa Giêsu Kitô trong bí tích Thánh Thể.\nNgày lễ Mình và Máu Thánh Chúa là một trong năm lễ trọng trong năm mà một giám mục giáo phận không được rời khỏi giáo phận của mình, ngoại trừ những lý do khẩn cấp. Theo truyền thống, người Công giáo tham gia vào một cuộc rước qua các đường phố của một khu phố dân cư sau giáo xứ của họ và vừa cầu nguyện và hát. Sau đám rước, họ trở về nhà thờ và tham gia bí tích Thánh thể.[3] Ngoài ra, trong ngày Lễ Mình và Máu Thánh Chúa, mọi người còn tổ chức lễ Rước Mình và Máu Thánh Chúa lần đầu cho các em nhỏ theo quy định tùy theo quy định địa phương. Trước đó vài ngày, các em sắp được Rước Mình và Máu Thánh Chúa được Xưng tội (Lãnh nhận Bí tích Hòa giải) rồi sau đó vào ngày lễ MMTC thì các em mới được Lãnh nhận Bí tích Thánh Thể.",
+        "items": null
+    },
+    {
+        "desId": 30,
+        "title": "Lễ Thánh Tâm Chúa Giêsu",
+        "content": "Trái Tim Cực Thánh Chúa Giêsu (tiếng Latinh: Cor Jesu Sacratissimum; thường gọi là: Thánh Tâm Chúa Giêsu) là một truyền thống sùng kính phổ biến trong Giáo hội Công giáo Rôma, qua việc liên tưởng trái tim vật lý của Chúa Giêsu chính là hiện thân tình yêu của Thiên Chúa dành cho nhân loại. Hình ảnh phổ biến mô tả về Thánh Tâm là một trái tim người, bao bọc bởi một vòng gai nhọn, hoặc bị một mũi tên đâm xuyên qua nó. Hai vật thể này là những chi tiết xuất hiện trong Cuộc thương khó của Giêsu.\nGiáo hội Công giáo Rôma cử hành ngày Lễ kính Thánh Tâm Chúa Giêsu sau 19 ngày kể từ Lễ Hiện Xuống. Thông thường, Tháng Sáu cũng là tháng họ gọi là Tháng Thánh Tâm. Các nhánh Kitô giáo khác như Anh giáo, Lutheran và Công giáo Đông phương cũng có thực hành tôn kính Thánh Tâm.",
+        "items": null
+    },
+    {
+        "desId": 31,
+        "title": "Trái tim vô nhiễm nguyên tội của Mẹ Maria",
+        "content": "Trái tim vẹn sạch Đức Bà Maria hay Trái tim vô nhiễm nguyên tội Đức Mẹ Maria hay Khiết tâm Đức Bà Maria là dấu chỉ và biểu tượng nói lên sự thương cảm và vô tội của mẹ Maria. Đó cũng là một biểu tượng để các kitô hữu tôn sùng. Việc tôn sùng Trái tim vô nhiễm của Đức Maria được phổ biến ở tầm thế giới sau biến cố hiện ra ở Fatima (1917) và sau đó được sự phê chuẩn của Tòa thánh. Vào năm 1942, kỷ niệm 25 năm biến cố Đức Mẹ hiện ra ở Fatima, Giáo hoàng Piô XII đã dâng thế giới cho Trái Tim Vô Nhiễm Đức Mẹ",
+        "items": null
+    },
+    {
+        "desId": 32,
+        "title": "Lễ sinh nhật Thánh Gioan Tẩy giả",
+        "content": "Thánh Gioan Tẩy Giả là người có sứ mệnh chuẩn bị cho Đấng Cứu Thế đến trần gian để cứu chuộc nhân loại. Thánh Gioan Tẩy Giả là vị tiền hô của Thiên Chúa, thuộc về giai đoạn cựu ước, nhưng cũng được tôn kính như những vị thánh vĩ đại đầu tiên của kỷ nguyên Kitô giáo. Đức Giêsu, như Tin Mừng thuật lại, đã có những lời rất mực tôn vinh thánh Gioan: “Trong số những phàm nhân lọt lòng mẹ, chưa từng có ai cao trọng hơn ông Gioan Tẩy Giả” (Mt 11,11).\nTrong Phụng Vụ phổ quát hiện nay, lễ thánh Gioan Tẩy Giả Bị Trảm Quyết thuộc bậc Lễ Nhớ, còn lễ Sinh Nhật thánh Gioan Tẩy Giả thuộc bậc Lễ Trọng. Giáo Hội cử hành lễ Sinh Nhật thánh Gioan còn trọng thể và lớn hơn cả lễ Sinh Nhật Đức Maria, vì thực tế, lễ Sinh Nhật Đức Mẹ chỉ thuộc bậc Lễ Kính (ngày 08 tháng 09) và xuất hiện muộn thời. Việc kính nhớ trọng thể ngày sinh của thánh Gioan như thế đã có từ rất xa xưa. Trong một bài giảng, Giáo phụ Augustinô nói như sau: “Hội Thánh coi sinh nhật thánh Gioan như một ngày thiêng thánh. Không vị nào trong các bậc cha ông được chúng ta mừng sinh nhật trọng thể như thế. Chúng ta mừng sinh nhật thánh Gioan và mừng sinh nhật Đức Kitô, đó là điều không thể bỏ qua”.",
+        "items": null
+    },
+    {
+        "desId": 33,
+        "title": "Lễ thánh Phêrô và Phaolô tông đồ",
+        "content": "Trong ngày lễ kính thánh Phêrô và thánh Phaolô, chúng ta được mời gọi chiêm ngắm hai khuôn mặt, rất khác nhau mà cũng rất giống nhau. Phêrô, một người đánh cá ít học, đã lập gia đình. Ông theo Thầy Giêsu ngay từ buổi đầu sứ vụ. Còn Phaolô là người có nhiều điều để tự hào, về gia thế, về học thức, về đời sống đạo hạnh.",
+        "items": [
+            [
+                "Thánh Phê-rô tông đồ",
+                "Thánh Phêrô hay Thánh Peter còn có tên gọi tiếng anh là Saint Peter. Ngài là một trong mười hai tông đồ đầu tiên mà Chúa Giêsu đã chọn để tiếp theo. Ông là một ngư dân ở hồ Genezaret, cùng với anh trai là Thánh Anrê. Theo Kinh Thánh, Chúa Giêsu đã trao cho Thánh Phêrô quyền cai quản và lãnh đạo Hội Thánh sau khi Ngài lên trời.",
+                "Thánh Phêrô được coi là Giám Mục của Rôma và là vị Giáo Hoàng đầu tiên của Giáo hội Công giáo Rôma. Niên giám Tòa Thánh năm 1838 dưới triều đại của Giáo Hoàng Grêgôriô XVI cho rằng Ông trở thành Giám mục Rôma vào năm 42 và đã lãnh đạo trong vòng 25 năm. Tuy nhiên, niên giám Tòa Thánh năm 2003 xác định rằng thời gian bắt đầu triều đại của Ông không rõ và kéo dài tới năm 64. Ngoài vai trò tại Rôma, Ngài cũng được cho là người sáng lập Giáo Đoàn tại Antioch và đã lãnh đạo cộng đồng tín hữu tại đây trong vòng 7 năm liền. Ông đóng góp quan trọng vào việc phát triển và lãnh đạo sự mở rộng của Kitô giáo."
+            ],
+            [
+                "Thánh Phaolô tông đồ",
+                "Thánh Phaolô có tên là Saolô, sinh vào thập niên đầu của công nguyên, tức là cùng thời với Chúa Giêsu. Tuy là người Do thái, thuộc chi họ Benjamin, nhưng Saolô sinh ra và lớn lên ở Tarsus, thủ phủ của tỉnh Cicilia, nay là miền nam Thổ nhĩ kỳ. Ngài vóc dáng thấp bé, nhưng thông minh vượt xa những người cùng lứa tuổi. Lúc nhỏ được giáo dục ở Tarsus là một trung tâm nổi tiếng về văn hoá và triết học.\nDo sống cùng thời với Đức Giêsu và là ngôi sao đang lên của trường phái Pha-ri-sêu, chắc chắn Phaolô phải biết những gì xãy ra ở Giê-ru-sa-lem. Có thể ông đã nhìn thấy và rất có thể ông đã nghe biết những bài giảng của Đức Giêsu. Và chắc chắn, Saolô rất ghét Ngài vì Ngài đang phá đổ những gì mà ông nhiệt thành tin tưởng. Sau cái chết của Đức Giêsu, ông tưởng đâu phong trào “lạc giáo” đó cũng tan theo. Nhưng ngược lại, những kẻ theo “con đường” (The Way) càng ngày càng đông. Phaolô phải điên lên. Ông xin trát để lùng bắt tất cả những người theo “Đạo” và đưa về Giê-ru-sa-lem trừng phạt. Nhưng một biến cố xãy ra. Vào khoảng năm 33-35, trên đường từ Giê-ru-sa-lem tới Đa-mát để bắt bớ người theo Đạo, Phaolô đã bị quật ngã và từ đó ông đã hoàn toàn thay đổi. Chính Chúa Kitô Phục sinh đã đích thân chọn ông làm tông đồ của Ngài. Chúng ta hãy đọc lại biến cố này qua lời tường thuật của thánh Luca (Cv 9:1-19)."
+            ]
+        ]
+    },
+    {
+        "desId": 34,
+        "title": "Giêsu hiển dung",
+        "content": "Giêsu hiển dung, hay biến hình, là một sự kiện được tường thuật trong Tân Ước tại Phúc âm Matthew 17:1-9, Mark 09:02-8, Luca 9:28-36. Theo các văn bản đó, Chúa Giêsu cùng ba tông đồ là Phêrô, Giacôbê và Gioan đi lên một ngọn núi (ngày nay là Núi Biến Hình), tại đó ông đã biến đổi dung mạo từ một người bình thường trở thành “chói lọi như mặt trời”. Sau đó, hai tiên tri là Moses và Êlia xuất hiện bên cạnh để đàm đạo với Giêsu. Ngoài ra còn có một chi tiết về một tiếng nói xuất phát từ đám mây: “Đây là Con yêu dấu của ta...” mà các học giả Kinh Thánh giả định rằng đó là tiếng nói của Chúa Cha. Biến Hình là một trong những phép lạ mà chính Chúa Giêsu thực hiện cho chính bản thân mình và là một trong năm tiêu điểm chính về cuộc đời của Chúa Giêsu, những cột mốc khác là: lúc được Thanh Tẩy, lúc bị đóng đinh tử nạn, lúc phục sinh và lúc lên trời.",
+        "items": null
+    },
+    {
+        "desId": 35,
+        "title": "Lễ vọng Rất Thánh Trinh Nữ Maria Hồn Xác Lên Trời",
+        "content": "Ðức trinh nữ Maria ngay từ giây phút ban đầu đã được Thiên Chúa bảo toàn, gìn giữ và tuyển chọn. Nên, tâm hồn và thể xác của Mẹ luôn thuộc về Thiên Chúa, không mang vết tỳ ố, không nhuốm tội lỗi, tâm hồn tinh trong, thánh thiện, tinh tuyền, xứng đáng là đền thờ cho Chúa Thánh Thần ngự trị. Thiên Chúa đã yêu thương Mẹ, đã tuyển chọn Mẹ làm Mẹ Thiên Chúa, làm Mẹ Ðấng cứu thế Giêsu. Hậu quả của tước vị làm Mẹ Thiên Chúa: Maria đã được chọn lựa riêng, được đặc ân vô nhiễm nguyên tội.",
+        "items": null
+    },
+    {
+        "desId": 36,
+        "title": "Đức Mẹ lên trời",
+        "content": "Lễ Đức Mẹ Lên Trời (hay còn gọi là Lễ Đức Mẹ Mông Triệu) là một ngày lễ quan trọng của các Kitô hữu, vì họ tin rằng khi qua đời thì linh hồn và thể xác của Đức Maria đã được đưa về thiên đàng.\nTrong thánh kinh không có bằng chứng trực tiếp nào về việc Đức Maria lên trời. Hội thánh Công giáo rút ra kết luận đó từ cách gọi Đức Maria đầy ân sủng được ghi trong Tin mừng Luca (Lc 1,28). Vì đầy ân sủng nên Mẹ được gìn giữ khỏi phải chịu hậu quả của tội lỗi, tức là thân xác không phải hư nát sau khi chết và thân xác được hạnh phúc trên trời ngay cả khi ngày tận thế chưa đến. Khi đặt niềm tin vào việc Đức Maria lên trời, Hội thánh không dựa vào Kinh Thánh mà dựa vào truyền thống được kể lại. Đây chắc chắn là giáo lý đã được mạc khải, bởi vì các giám mục Công giáo trên toàn thế giới đã nhất trí tin rằng đó là một phần trong mạc khải của Thiên Chúa",
+        "items": null
+    },
+    {
+        "desId": 37,
+        "title": "Lễ sinh nhật của Đức Maria",
+        "content": "Lễ sinh nhật của Đức Maria là ngày lễ kỷ niệm sự ra đời của Mẹ Maria, đây là một trong mười hai ngày đại lễ kính của Chính thống giáo Đông Phương trong năm phụng vụ. Nó được tổ chức vào ngày 8 trong lịch phụng vụ (đối với những nhà thờ theo truyền thống lịch Julian ngày 08 tháng 9 rơi vào ngày 21 của dương Lịch hiện đại).\nTheo truyền thống thiêng liêng của Giáo hội Chính Thống, Đức Maria được sinh ra khi cha mẹ là thánh Joachim và Anna đều đã già cả. Đây được coi là lời đáp lại của Thiên Chúa đối với lời cầu nguyện của họ.Không có một bằng chứng nào cụ thể để giải thích lý do vì sao người ta lại chọn ngày mừng lễ là ngày 8 tháng 9.\nCâu chuyện về việc sinh hạ Đức Maria đã được ghi chép trong Tin Mừng ngoại thư của Thánh Giacôbê. Vào thế kỷ thứ VI, Thánh Rômanô (của Giáo hội Hy Lạp) đã sáng tác một thánh thi phác họa lại trích đoạn của sách Tin Mừng. Truyền thống cho rằng, lễ này có thể đã phát xuất ở Syria hoặc Palestin vào đầu thế kỷ VI, khi mà sau Công đồng Êphêsô sự tôn kính Mẹ Thiên Chúa (Theotokos) được tăng cường mạnh mẽ đặc biệt là ở Syria.",
+        "items": null
+    },
+    {
+        "desId": 38,
+        "title": "Lễ suy tôn Thánh Giá",
+        "content": "Được tổ chức vào ngày 14 tháng 9, ngày lễ Thánh Giá là ngày tôn vinh và tưởng nhớ sự hy sinh mà Chúa Giêsu Kitô đã thực hiện trên thập giá để cứu rỗi chúng ta. Ngày lễ này còn được gọi là “Sự khải hoàn của Thập giá” trong Giáo hội Công giáo La Mã và là “Sự Tôn Vinh Thánh giá” trong Giáo Hội Đông Phương.\nThánh Giá được xem như là hình ảnh tiêu biểu nhất liên hệ đến cuộc đóng đinh của Chúa Giêsu Kitô, là biểu tượng đặc trưng của các giáo hội Kitô giáo. Hình tượng Thánh Giá thường gồm hai thanh thẳng đan chéo vuông góc nhau với hình ảnh Chúa Giêsu bị đóng đinh trên đó. Thánh Giá có nghĩa khác với “thập giá” vì “thập giá” chỉ mang nghĩa đơn giản là giá có hình chữ thập và trên nó không có những chi tiết liên quan đến tôn giáo. Thánh giá được coi là biểu tượng của Thánh đạo.\nHiện nay, có nhiều loại Thánh Giá dược sử dụng trong các tôn giáo: Thánh Giá Hy Lạp (có hình như dấu +), Thánh Giá La Tinh (có thanh đứng dài và thanh ngang ngắn hơn †), Thánh giá Thánh Phanxicô (giống chữ T), Thánh Giá Chính thống giáo hình ☦︎,...",
+        "items": null
+    },
+    {
+        "desId": 39,
+        "title": "Đức Mẹ sầu bi",
+        "content": "Đức Mẹ Sầu Bi (hoặc Pietà theo tiếng Ý) là một chủ đề trong nghệ thuật Kitô giáo, miêu tả Đức Mẹ Maria ôm xác Chúa Giêsu, và thường thể hiện bằng tác phẩm điêu khắc. Đây là cảnh tượng đặc trưng nhất trong bối cảnh hạ xác Chúa Giêsu xuống khỏi cây thập giá sau khi chịu đóng đinh.",
+        "items": null
+    },
+    {
+        "desId": 40,
+        "title": "Các tổng lãnh Thiên thần Mi-ca-e, Gáp-ri-en và Ra-pha-en",
+        "content": "Thiên thần theo tiếng Do Thái Mal’Pak có nghĩa là sứ giả là một danh từ để chỉ tất cả các vị thần thánh trên trời hằng cận kề Thiên Chúa và khác biệt với con người. Trước hết, các Thiên thần là cộng đoàn đông đảo những vị thờ lạy Thiên Chúa hằng sông. Các vị ấy hiện diện cách vô hình để hướng dẫn dòng lịch sử cứu độ. Các vị cũng là những sứ giả của Chúa có nhiệm vụ mặc khải cho con người biết các kế hoạch của Chúa và loan báo mệnh lệnh của Chúa.\nKhi mừng kính các Vị Tổng lãnh Thiên thần Mi-ca-e, Gáp-ri-en và Ra-pha-en, Giáo Hội cũng có ý mừng kính tất cả chư vị Thiên thần. Hợp ý với Giáo Hội, chúng ta cũng hãy kính dâng lên các ngài lòng tôn kính, biết ơn và nguyện xin các ngài hằng bầu cử cho ta trước toà Chúa.",
+        "items": [
+            [
+                "Tổng lãnh thiên thần Micae",
+                "Trong Sách Khải Huyền của Tân Ước, Micae được mô tả là người lãnh đạo các thiên thần trung thành với Thiên Chúa chống lại Lucifer và các thiên thần nổi loạn trong cuộc Chiến tranh trên Thiên đàng, phe ông đã chiến thắng và Lucifer bị trục xuất khỏi thiên đàng. Việc tôn kính Tổng lãnh thiên thần Micae đã phổ biến rộng rãi trong các Giáo hội Kitô giáo Đông phương lẫn Tây phương nhưng theo thời gian, quan điểm giáo lý về Micae đã bắt đầu có sự khác biệt giữa họ. Nhìn chung, Micae được biết đến nhiều hơn trong số các thiên thần có tên gọi."
+            ],
+            [
+                "Thiên sứ Gáp-ri-en",
+                "Thiên sứ Gáp-ri-ên là một sứ giả được ủy thác để truyền tải nhiều thông điệp quan trọng thay mặt Đức Chúa Trời. Gáp-ri-ên xuất hiện với ít nhất ba người trong Kinh Thánh: đầu tiên là tiên tri Đa-ni-ên (Đa-ni-ên 8:16); bên cạnh thầy tế lễ Xa-cha-ri để báo trước và loan báo về sự ra đời kỳ diệu của Giăng Báp-tít (Lu-ca 1:19); và cuối cùng là với người nữ đồng trinh Ma-ri để nói với cô rằng cô sẽ thụ thai và sinh một con trai (Lu-ca 1:26-38). Tên Gáp-ri-ên có nghĩa là “Đức Chúa Trời rất vĩ đại”, và là thiên sứ của sự loan báo, ông là người đã tiết lộ rằng Đấng Cứu Chuộc được gọi là “Giê-su” (Lu-ca 1:31)."
+            ],
+            [
+                "Tổng lãnh thiên thần Ra-pha-en",
+                "Tổng lãnh thiên thần Ra-pha-en, vị thần y ủi an và chữa trị “mát tay” cho những ca đau khổ\nDanh xưng Ra-pha-en trong tiếng Híp-ri có thể hiểu là, “Thiên Chúa chữa lành”, “Thần y”, hay “Thần được của Thiên Chúa”. Sứ mệnh được trao phó cho ngài, để thực thi trên dương thế này, là an ủi, chữa lành, đấy là điều cần kíp cho hết thảy những ai đau khổ cách này hay cách khác."
+            ]
+        ]
+    },
+    {
+        "desId": 41,
+        "title": "Têrêsa thành Lisieux",
+        "content": "Hay là Thánh Têrêsa Hài đồng Giêsu và Thánh Nhan , là một nữ tu Công giáo được phong hiển thánh và được ghi nhận là một Tiến sĩ Hội thánh. Têrêsa thành Lisieux cũng được biết đến nhiều với cái tên “Bông hoa Nhỏ của Chúa Giêsu”",
+        "items": null
+    },
+    {
+        "desId": 42,
+        "title": "Lễ Đức Mẹ Mân Côi",
+        "content": "Đức Mẹ Mân Côi (còn gọi là Đức Mẹ Mai Khôi, Đức Mẹ Môi Côi, Nữ Vương Rất Thánh Mân Côi) là một danh hiệu của Đức Trinh Nữ Maria trong mối quan hệ với Kinh Mân Côi. Lễ Đức Mẹ Mân Côi được cử hành vào ngày 7 tháng 10 hằng năm, kỷ niệm chiến thắng quyết định của liên minh Kitô giáo trước hạm đội của Đế chế Ottoman trong Trận hải chiến Lepanto năm 1571. Vì vậy trước đây, ngày lễ này còn được gọi là Lễ Đức Mẹ Chiến Thắng. Năm1960, Giáo hoàng Gioan XXIII đổi tên lễ này thành Lễ Đức Mẹ Mân Côi như ngày nay.",
+        "items": null
+    },
+    {
+        "desId": 43,
+        "title": "",
+        "content": "",
+        "items": null
+    },
+    {
+        "desId": 44,
+        "title": "Lễ cầu cho các tín hữu đã qua đời",
+        "content": "Bước vào tháng 11, lịch Phụng vụ dành ngày mồng 1 để mừng trọng thể Lễ Các Thánh, và ngày mồng 2 để cầu nguyện cho các tín hữu đã qua đời.\nViệc cầu nguyện cho những người đã chết có nguồn gốc xa xưa. Trong Sách 2 Macabe, kể lại rằng, Giuda Macabe ra lệnh cho quân đội cầu nguyện và dâng của lễ thay cho những người đồng đội của họ đã hy sinh: “Ông Giuđa quyên tiền, và gửi về Giêrusalem để xin dâng lễ đền tội; ông làm cử chỉ rất tốt đẹp và cao quý này vì cho rằng người chết sẽ sống lại... dâng lễ tế đền tạ cho những người đã chết, để họ được giải thoát khỏi tội lỗi” (2 Mcb 12, 43-46).",
+        "items": null
+    },
+    {
+        "desId": 45,
+        "title": "Lễ Đức Trinh nữ Maria dâng mình trong đền thờ",
+        "content": "Lễ Đức Mẹ Dâng mình trong đền thờ bắt nguồn ở phương Đông; lễ này có liên quan tới ngày kỷ niệm lễ Cung hiến thánh Đường Đức Mẹ (Sainte-Marie-la-Neuve) (21 tháng 11 năm 543), thánh đường này được hoàng đế Justinien (527-565) xây dựng tại Giêrusalem gần Đền thờ và bị quân Ba Tư phá huỷ năm 614.",
+        "items": null
+    },
+    {
+        "desId": 46,
+        "title": "Lễ Chúa Giêsu Kitô Vua vũ trụ",
+        "content": "Lễ Chúa Giêsu Kitô Vua vũ trụ, thường được gọi là Lễ Chúa Kitô Vua hay Chúa Kitô Vua là một ngày lễ bổ sung tương đối gần đây vào lịch phụng vụ phương Tây, được Giáo hoàng Piô XI lập ra năm 1925, áp dụng cho Giáo hội Công giáo Rôma.",
+        "items": null
+    },
+    {
+        "desId": 47,
+        "title": "Các Thánh tử đạo Việt Nam",
+        "content": "Các thánh tử đạo Việt Nam là danh sách những tín hữu Công giáo người Việt hoặc thừa sai ngoại quốc được Giáo hội Công giáo Rôma tuyên thánh với lý do tử đạo. Trong lịch sử Công giáo tại Việt Nam, ước tính có đến hàng trăm ngàn người đã tử vì đạo để làm chứng cho đức tin Kitô giáo. Trong số đó có 117 người đã được Giáo hoàng Gioan Phaolô II tuyên Thánh vào ngày 19 tháng 6 năm 1988, và Anrê Phú Yên được tuyên Chân phước ngày 5 tháng 3 năm 2000.\nLễ kính chung cho các Thánh tử đạo Việt Nam là ngày 24 tháng 11, được Giáo hội Công giáo khắp thế giới cử hành với bậc lễ theo Lịch Chung Rôma là lễ nhớ. Riêng Giáo hội Việt Nam còn cử hành lễ kính trọng thể vào Chúa nhật giữa tháng 11, trước lễ Chúa Kitô Vua. Trước đây, lễ kính các chân phước tử đạo Việt Nam được cử hành vào chủ nhật đầu tiên của tháng 9.",
+        "items": null
+    },
+    {
+        "desId": 48,
+        "title": "Thánh Phanxicô Xaviê",
+        "content": "Thánh Phanxicô Xaviê (tên khai sinh là Francisco de Jasso y Azpilicueta; tiếng Latinh: Franciscus Xaverius; tiếng Basque: Frantzisko Xabierkoa; tiếng Pháp: François Xavier; tiếng Tây Ban Nha: Francisco Javier; tiếng Bồ Đào Nha: Francisco Xavier; 7 tháng 4 năm 1506 – 3 tháng 12 năm 1552) là nhà truyền giáo Công giáo người Tây Ban Nha và là một trong những người sáng lập ra Dòng Tên. Ngài là người đã nhân danh Đế quốc Bồ Đào Nha thực hiện sứ mạng truyền giáo tiên khởi tại Nhật Bản.\nSinh ra tại thị trấn Javier, Tây Ban Nha, ngài từng là đồng bạn của cha Inhaxiô Loyola và là một trong bảy thầy Dòng Tên tuyên khấn khó nghèo cùng khiết tịnh tại Montmartre, Paris vào năm 1534.\nCha Phanxicô Xaviê đã được Đức Giáo hoàng Phaolô V phong chân phước vào ngày 25 tháng 12 năm 1619 và được Đức Giáo hoàng Grêgôriô XV tôn phong hiển thánh vào ngày 12 tháng 3 năm 1622. Đến năm 1624, ngài được phong làm thánh bổn mạng của nước Navarra. Ngài là một trong những nhà truyền giáo vĩ đại nhất từ sau khi Thánh Phaolô Tông đồ mất.",
+        "items": null
+    },
+    {
+        "desId": 49,
+        "title": "",
+        "content": "",
+        "items": null
+    },
+    {
+        "desId": 50,
         "title": "",
         "content": "",
         "items": null

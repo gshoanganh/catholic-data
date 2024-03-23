@@ -54,7 +54,7 @@
                 "day": 0,
                 "name": "Lễ Chúa Giáng Sinh",
                 "sub": "Lễ trọng và buộc. Lễ kiêng việc xác",
-                "desId": 4
+                "desId": 104
             },
             {
                 "code": "20231231",
@@ -68,21 +68,21 @@
                 "day": 0,
                 "name": "Lễ Thánh Maria, Mẹ Thiên Chúa.",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 100
             },
             {
                 "code": "20240107",
                 "day": 6,
                 "name": "Lễ Hiển linh",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 6
             },
             {
                 "code": "20240801",
                 "day": 0,
                 "name": "Lễ Chúa Giêsu chịu phép rửa",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 7
             },
             {
                 "code": "20240202",
@@ -96,315 +96,315 @@
                 "day": 5,
                 "name": "Mồng một Tết Nguyên Đán (Giáp Thìn)",
                 "sub": "Cầu Bình an cho năm mới",
-                "desId": 1
+                "desId": 133
             },
             {
                 "code": "20240211",
                 "day": 6,
                 "name": "Mồng hai Tết Nguyên Đán (Giáp Thìn)",
                 "sub": "Kính nhớ Tổ Tiên và Ông Bà Cha Mẹ",
-                "desId": 1
+                "desId": 134
             },
             {
                 "code": "20240212",
                 "day": 0,
                 "name": "Mồng ba Tết Nguyên Đán (Giáp Thìn)",
                 "sub": "Thánh hóa Công việc, Học tập",
-                "desId": 1
+                "desId": 135
             },
             {
                 "code": "20240114",
                 "day": 2,
                 "name": "Lễ Tro",
                 "sub": "Khởi đầu Mùa Chay. Lễ trọng.\nLàm phép tro và xức tro.\nGiáo hữu giữ chay và kiêng thịt",
-                "desId": 1
+                "desId": 10
             },
             {
                 "code": "20240319",
                 "day": 1,
                 "name": "Lễ Thánh Giuse, Bạn Đức Trinh Nữ Maria",
                 "sub": "Lễ trọng.\nBổn mạng Hội Thánh hoàn vũ và Hội Thánh Việt Nam",
-                "desId": 1
+                "desId": 101
             },
             {
                 "code": "20240324",
                 "day": 6,
                 "name": "Lễ Lá",
                 "sub": "khởi đầu Tuần Thánh. Làm phép và rước lá",
-                "desId": 1
+                "desId": 12
             },
             {
                 "code": "20240328",
                 "day": 3,
                 "name": "Lễ Truyền Dầu",
                 "sub": "Ban sáng: Thánh hiến và làm phép dầu",
-                "desId": 1
+                "desId": 13
             },
             {
                 "code": "20240328",
                 "day": 3,
                 "name": "Thánh Lễ Tiệc Ly",
                 "sub": "Chiều tối: Chúa Giêsu Lập Bí Tích Thánh Thể",
-                "desId": 1
+                "desId": 14
             },
             {
                 "code": "20240329",
                 "day": 4,
                 "name": "Tưởng niệm cuộc thương khó của Chúa",
                 "sub": "Lễ trọng. Giáo hữu giữ chay và kiêng thịt",
-                "desId": 1
+                "desId": 15
             },
             {
                 "code": "20240331",
                 "day": 6,
                 "name": "Phục Sinh - Mừng Chúa sống lại",
-                "sub": "Lễ trọng",
-                "desId": 1
+                "sub": "Lễ trọng, Cộng đoàn mang theo nến",
+                "desId": 16
             },
             {
                 "code": "20240401",
                 "day": 0,
                 "name": "Bắt đầu Tuần bát nhật Phục sinh",
                 "sub": "Tĩnh tâm, Sống lành mạnh",
-                "desId": 1
+                "desId": 17
             },
             {
                 "code": "20240407",
                 "day": 6,
                 "name": "Lòng Chúa Thương Xót",
                 "sub": "Mùa Phục Sinh",
-                "desId": 1
+                "desId": 18
             },
             {
                 "code": "20240408",
                 "day": 0,
                 "name": "Lễ Truyền tin",
                 "sub": "Lễ trọng.\nTrong Thánh Lễ, phần Kinh Tin Kính, \nquỳ gối khi đọc câu \n“Bởi phép Đức Chúa Thánh Thần… và đã làm người”",
-                "desId": 1
+                "desId": 19
             },
             {
                 "code": "20240421",
                 "day": 6,
                 "name": "Lễ Chúa Chiên lành",
                 "sub": "Lễ cầu cho ơn thiên triệu",
-                "desId": 1
+                "desId": 20
             },
             {
                 "code": "20240501",
                 "day": 2,
                 "name": "Lễ Thánh Giuse Thợ",
                 "sub": "Ngày mới vui vẻ",
-                "desId": 1
+                "desId": 21
             },
             {
                 "code": "20240511",
                 "day": 5,
                 "name": "Lễ Vọng Chúa lên trời",
                 "sub": "Chuẩn bị tâm hồn trong sáng",
-                "desId": 1
+                "desId": 22
             },
             {
                 "code": "20240512",
                 "day": 6,
                 "name": "Lễ Chúa lên trời",
                 "sub": "Lễ trọng và buộc. Lễ kiêng việc xác. \n(nếu cử hành lễ Chúa lên trời vào thứ năm thì nhằm vào ngày 09/05/2024. Nguồn HDGM Việt Nam)",
-                "desId": 1
+                "desId": 23
             },
             {
                 "code": "20240518",
                 "day": 5,
                 "name": "Lễ vọng Chúa Thánh Thần hiện xuống",
                 "sub": "Chuẩn bị tâm hồn đón nhận Thánh Thần",
-                "desId": 1
+                "desId": 24
             },
             {
                 "code": "20240519",
                 "day": 6,
                 "name": "Lễ Chúa Thánh Thần hiện xuống",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 25
             },
             {
                 "code": "20240520",
                 "day": 0,
                 "name": "Lễ Đức Trinh Nữ Maria, Mẹ Hội Thánh",
                 "sub": "Lễ nhớ",
-                "desId": 1
+                "desId": 26
             },
             {
                 "code": "20240526",
                 "day": 6,
                 "name": "Lễ Chúa Ba Ngôi",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 27
             },
             {
                 "code": "20240531",
                 "day": 4,
                 "name": "Đức Maria thăm viếng bà Êlisabeth",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 28
             },
             {
                 "code": "20240602",
                 "day": 6,
                 "name": "Lễ Mình và Máu Chúa Kitô",
                 "sub": "Lễ trọng.\nGiáo hội rước kiệu trọng thể Mình Thánh Chúa",
-                "desId": 1
+                "desId": 29
             },
             {
                 "code": "20240607",
                 "day": 4,
                 "name": "Lễ Thánh Tâm Chúa Giêsu",
                 "sub": "Lễ trọng.\nNgày thế giới cầu nguyện xin Chúa thánh hoá các linh mục",
-                "desId": 1
+                "desId": 30
             },
             {
                 "code": "20240608",
                 "day": 5,
                 "name": "Lễ trái tim vô nhiễm Đức Mẹ Maria",
                 "sub": "Lễ nhớ",
-                "desId": 1
+                "desId": 31
             },
             {
                 "code": "20240624",
                 "day": 0,
                 "name": "Lễ sinh nhật Thánh Gioan Tẩy giả",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 32
             },
             {
                 "code": "20240629",
                 "day": 5,
                 "name": "Lễ Thánh Phêrô và Phaolô",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 33
             },
             {
                 "code": "20240806",
                 "day": 1,
                 "name": "Lễ Chúa Hiển Dung",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 34
             },
             {
                 "code": "20240814",
                 "day": 2,
                 "name": "Lễ vọng Rất Thánh Trinh Nữ Maria Hồn Xác Lên Trời",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 35
             },
             {
                 "code": "20240815",
                 "day": 3,
                 "name": "Lễ Rất Thánh Trinh Nữ Maria Hồn Xác Lên Trời",
                 "sub": "Lễ trọng và buộc.Lễ kiêng việc xác.",
-                "desId": 1
+                "desId": 36
             },
             {
                 "code": "20240908",
                 "day": 6,
                 "name": "Sinh nhật Đức Trinh Nữ Maria",
                 "sub": "Không cử hành lễ",
-                "desId": 1
+                "desId": 37
             },
             {
                 "code": "20240914",
                 "day": 5,
                 "name": "Lễ suy tôn Thánh Giá",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 38
             },
             {
                 "code": "20240915",
                 "day": 6,
                 "name": "Đức Mẹ sầu bi",
                 "sub": "Không cử hành lễ",
-                "desId": 1
+                "desId": 39
             },
             {
                 "code": "20240929",
                 "day": 6,
                 "name": "Các tổng lãnh Thiên thần Mi-ca-e, Gáp-ri-en và Ra-pha-en",
                 "sub": "Không cử hành lễ",
-                "desId": 1
+                "desId": 40
             },
             {
                 "code": "20241001",
                 "day": 1,
                 "name": "Lễ Thánh Têrêsa Hài đồng Giêsu",
                 "sub": "Lễ kính. Bổn mạng các xứ truyền giáo.",
-                "desId": 1
+                "desId": 41
             },
             {
                 "code": "20241007",
                 "day": 0,
                 "name": "Lễ Đức Mẹ Mân Côi",
                 "sub": "Lễ nhớ",
-                "desId": 1
+                "desId": 42
             },
             {
                 "code": "20241101",
                 "day": 4,
                 "name": "Lễ Các Thánh Nam Nữ",
                 "sub": "Lễ trọng và buộc. Lễ kiêng việc xác",
-                "desId": 1
+                "desId": 103
             },
             {
                 "code": "20241102",
                 "day": 5,
                 "name": "Lễ cầu cho các tín hữu đã qua đời",
                 "sub": "",
-                "desId": 1
+                "desId": 44
             },
             {
                 "code": "20241121",
                 "day": 3,
                 "name": "Lễ Đức Trinh nữ Maria dâng mình trong đền thờ",
                 "sub": "Lễ nhớ",
-                "desId": 1
+                "desId": 45
             },
             {
                 "code": "20241124",
                 "day": 6,
                 "name": "Lễ Chúa Giêsu Kitô Vua Vũ trụ",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 46
             },
             {
                 "code": "20241125",
                 "day": 0,
                 "name": "Lễ các Thánh tử đạo Việt Nam",
                 "sub": "Lễ trọng. Bổn mạng Hội Thánh Việt Nam",
-                "desId": 1
+                "desId": 47
             },
             {
                 "code": "20241203",
                 "day": 1,
                 "name": "Lễ Thánh Phanxicô Xaviê",
                 "sub": "Lễ kính. Bổn mạng các xứ truyền giáo",
-                "desId": 1
+                "desId": 48
             },
             {
                 "code": "20241209",
                 "day": 0,
                 "name": "Lễ Đức Mẹ Vô nhiễm Nguyên Tội",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 3
             },
             {
                 "code": "20241225",
                 "day": 2,
                 "name": "Lễ Chúa Giáng Sinh",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 104
             },
             {
                 "code": "20241229",
                 "day": 6,
                 "name": "Lễ Thánh Gia",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 5
             }
         ]
     },
@@ -416,49 +416,49 @@
                 "day": 1,
                 "name": "Lễ Thánh Phanxicô Xaviê",
                 "sub": "Lễ kính. Bổn mạng các xứ truyền giáo",
-                "desId": 1
+                "desId": 48
             },
             {
                 "code": "20241209",
                 "day": 0,
                 "name": "Lễ Đức Mẹ Vô nhiễm Nguyên Tội",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 3
             },
             {
                 "code": "20241225",
                 "day": 2,
                 "name": "Lễ Chúa Giáng Sinh",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 104
             },
             {
                 "code": "20241229",
                 "day": 6,
                 "name": "Lễ Thánh Gia",
                 "sub": "Lễ kính",
-                "desId": 1
+                "desId": 5
             },
             {
                 "code": "20250101",
                 "day": 2,
                 "name": "Lễ Thánh Maria, Mẹ Thiên Chúa",
                 "sub": "Lễ trọng",
-                "desId": 1
+                "desId": 100
             },
             {
                 "code": "20250105",
                 "day": 6,
                 "name": "Lễ Hiển linh",
                 "sub": "",
-                "desId": 1
+                "desId": 6
             },
             {
                 "code": "20250107",
                 "day": 3,
                 "name": "Lễ Chúa Giêsu chịu phép rửa",
                 "sub": "",
-                "desId": 1
+                "desId": 7
             }
         ]
     }
