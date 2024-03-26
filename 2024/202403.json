@@ -266,7 +266,7 @@
     "season": "MC",
     "clothes": "Tr",
     "name": "Lễ Vọng Phục Sinh",
-    "des": 3,
+    "desId": 3,
     "book": "Bđ 1: St 1,1-2,2; Tv 103,1-2a.5-6.10 và 12.13-14a.24 và 35c; Bđ 2: St 22,1-18; Tv 15,5 và 8.9-10.11; Bđ 3: Xh 14,15-15,1a;Xh 15,1b-2.3-4.5-6.17-18; Bđ 4: Is 54,5-14;Tv 29,2 và 4.5-6.11-12a và 13b; Bđ 5: Is 55,1-11; Is 12,2-3.4bcd.5-6; Bđ 6: Br 3,9-15.32-4,4; Tv 18B,8.9.10.11; Bđ 7: Ed 36,16-17a.18-28; Tv 41,3.5bcd ; Tv 42,3.4; Thánh thư: Rm 6,3-11; Tv 117,1-2.16ab và 17.22-23; Tin mừng: Lc 24, 1-12"
   }
   ,
@@ -276,7 +276,7 @@
     "season": "PS-1",
     "clothes": "Tr",
     "name": "Chúa Nhật Lễ Phục Sinh",
-    "des": 4,
+    "desId": 4,
     "book": "Cv 10,34a.37-43; Tv 117,1-2.16ab và 17.22-23; Cl 3,1-4; Ca tiếp liên; Tin mừng: Ga 20, 1-9"
   }
 ]
