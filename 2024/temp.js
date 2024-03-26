@@ -4,7 +4,7 @@
     "season": "MC",    
     "type": "",
     "name": "",
-    "des": 0,
+    "desId": 1,
     "clothes": "",
     "book": ""
   },

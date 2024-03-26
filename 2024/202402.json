@@ -5,7 +5,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "V 2:1-4,10-12; 1 Sb 29:10,11,11-12,12; Mc 6:7-13"
       },
       {
@@ -14,7 +14,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Đức Mẹ Dâng Chúa Vào Đền Thánh",
-        "des": 0,
+        "desId": 1,
         "book": "Hc 47:2-11; Tv 18:31,47,50,51; Mc 6:14-29"
       },
       {
@@ -23,7 +23,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "V 3:4-13; Tv 119:9,10,11,12,13,14; Mc 6:30-34"
       },
       {
@@ -32,7 +32,7 @@
         "season": "TN-5",
         "clothes":"",
         "name": "Chúa Nhật thứ Năm Mùa Quanh Năm",
-        "des": 0,
+        "desId": 1,
         "book": "G 7:1-4,6-7; Tv 147:1-2,3-4,5-6; 1 Cr 9:16-19,22-23; Mc 1:29-39"
       },
       {
@@ -41,7 +41,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Agatha, Đttđ",
-        "des": 0,
+        "desId": 1,
         "book": "V 8:1-7,9-13; Tv 132:6-7,8-10; Mc 6:53-56"
       },
       {
@@ -50,7 +50,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Phaolô Miki và các bạn tử đạo",
-        "des": 0,
+        "desId": 1,
         "book": "V 8:22-23,27-30; Tv 84:3-4,5,10,11; Mc 7:1-13"
       },
       {
@@ -59,7 +59,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "V 10:1-10; Tv 37:5-6,30-31,39-40; Mc 7:14-23"
       },
       {
@@ -68,7 +68,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "V 11:4-13; Tv 106:3-4,35-3,37,40; Mc 7:24-30"
       },
       {
@@ -77,7 +77,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "V 11:29-32; Tv 81:10-11,12-13,14-15; Mc 7:31-37"
       },
       {
@@ -86,7 +86,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Scholastica, Đt",
-        "des": 0,
+        "desId": 1,
         "book": "V 12:26-32; Tv 106:6-7,19-20,21-22; Mc 8:1-10"
       },
       {
@@ -95,7 +95,7 @@
         "season": "TN-6",
         "clothes":"",
         "name": "Chúa Nhật thứ Sáu Mùa Quanh Năm",
-        "des": 0,
+        "desId": 1,
         "book": "Lv 13:1-2,44-46; Tv 32:1-2,5,11; 1 Cr 10:3111; Mc 1:40-45"
       },
       {
@@ -104,7 +104,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Gc 1:1-11; Tv 119:67,68,71,72,75,76; Mc 8:11-13"
       },
       {
@@ -113,7 +113,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Gc 1:12-18; Tv 94:12-13,14-15,18-19; Mc 8:14-21"
       },
       {
@@ -122,7 +122,7 @@
         "season": "MC",
         "clothes":"",
         "name": "Thứ Tư Lễ Tro",
-        "des": 0,
+        "desId": 1,
         "book": "Ge 2:12-18; 2 Cr 5:20-6; Tv 51:3-4,5-6,12-13,14,17; Mt 6:1-6,16-18"
       },
       {
@@ -131,7 +131,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Đnl 30:15-20; Tv 1:1-2,3,4,6; Lc 9:22-25"
       },
       {
@@ -140,7 +140,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Is 58:1-9; Tv 51:3-4,5-6,18-19; Mt 9:14-15"
       },
       {
@@ -149,7 +149,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Is 58:9-14; Tv 86:1-2,3-4,5-6; Lc 5:27-32"
       },
       {
@@ -158,7 +158,7 @@
         "season": "MC-1",
         "clothes":"",
         "name": "Chúa Nhật thứ Nhất Mùa Chay",
-        "des": 0,
+        "desId": 1,
         "book": "St 9:8-15; Tv 25:4-5,6-7,8-9; 1 Pr 3:18-22; Mc 1:12-15"
       },
       {
@@ -167,7 +167,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Lv 19:1-2,11-18; Tv 19:8,9,10,15; Mt 25:31-46"
       },
       {
@@ -176,7 +176,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Is 55:10-11; Tv 34:4-5,6-7,16-17,18-19; Mt 6:7-15"
       },
       {
@@ -185,7 +185,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "St 3:1-10; Tv 51:3-4,12-13,18-19; Lc 11:29-32"
       },
       {
@@ -194,7 +194,7 @@
         "season": "MC",
         "clothes":"",
         "name": "Toà Thánh Phêrô, Tông Đồ",
-        "des": 0,
+        "desId": 1,
         "book": "Et 138:1-2,2-3,7-8; Mt 7:7-12"
       },{
         "code": "20240223",
@@ -202,7 +202,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Ed 18:21-28; Tv 130:1-2,3-4,4-6,7-8; Mt 5:20-26"
       },
       {
@@ -211,7 +211,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Đnl 26:16-19; Tv 119:1-2,4-5,7-8; Mt 5:43-48"
       },
       {
@@ -220,7 +220,7 @@
         "season": "MC-2",
         "clothes":"",
         "name": "Chúa Nhật thứ Hai Mùa Chay",
-        "des": 0,
+        "desId": 1,
         "book": "St 22:1-2,9,10-13,15-18; Tv 116:10-15,16-17,18-19; Rm 8:31-34; Mc 9:2-10"
       },
       {
@@ -229,7 +229,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Đn 9:4-10; Tv 79:8,9,11,13; Lc 6:36-38"
       },
       {
@@ -238,7 +238,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Is 1:10,16-20; Tv 50:8-9,16-17,21,23; Mt 23:1-12"
       },
       {
@@ -247,7 +247,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Gr 18:18-20; Tv 31:5-6,14,15-16; Mt 20:17-28"
       },
       {
@@ -256,7 +256,7 @@
         "season": "MC",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book": "Gr 17:5-10; Tv 1:1-2,3,4,6; Lc 16:19-31"
       }
 ]

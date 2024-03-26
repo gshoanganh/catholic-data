@@ -5,7 +5,7 @@
         "season": "GS",
         "clothes":"",
         "name": "Đức Maria, Mẹ Thiên Chúa",
-        "des": 1,
+        "desId": 100,
         "book": "Ds 6:22-27; Gl 4:4-7; Tv 67:2-3,5,6,8; Lc 2:16-21"
       },
       {
@@ -14,7 +14,7 @@
         "season": "GS",
         "clothes":"",
         "name": "Thánh Cả Basil và Grêgôriô Nazianzen, Gmtsht",
-        "des": 0,
+        "desId": 1,
         "book":"Ga 2:22-28; Tv 98:1,2-3,3-4; Ga 1:19-28"
       },
       {
@@ -23,7 +23,7 @@
         "season": "GS",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Ga 2:293; Tv 98:1,3-4,5-6; Ga 1:29-34"
       },
       {
@@ -33,7 +33,7 @@
         "season": "GS",
         "clothes":"",
         "name": "Thánh Elizabeth Ann Seton",
-        "des": 0,
+        "desId": 1,
         "book":"Ga 3:7-10; Tv 98:1,7-8,9; Ga 1:35-42"
         },
       {
@@ -42,7 +42,7 @@
         "season": "GS",
         "clothes":"",
         "name": "Thánh Gioan Neumann, Gm",
-        "des": 0,
+        "desId": 1,
         "book":"Ga 3:11-21; Tv 100:1-2,3,4,5; Ga 1:43-51"
       },
       {
@@ -51,7 +51,7 @@
         "season": "GS",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Is 60:1-6; Ep 3:2-3,5-6; Tv 72:1-2,7-8,10-11,12-13; Mt 2:1-12"
       },
       {
@@ -69,7 +69,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Lễ Chúa Giêsu Chịu Phép Rửa",
-        "des": 0,
+        "desId": 1,
         "book":""
       },
       {
@@ -78,7 +78,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 1:9-20; 1 Sm 2:1,4-5,6-7,8; Mc 1:21-28"
       },
       {
@@ -87,7 +87,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 3:1-10,19-20; Tv 40:2-5,7-8,8-9,10; Mc 1:29-39"
       },
       {
@@ -96,7 +96,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 4:1-11; Tv 44:10-11,14-15,25-26; Mc 1:40-45"
       },
       {
@@ -105,7 +105,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 8:4-7,10-22; Tv 89:16-17,18-19; Mc 2:1-12"
       },
       {
@@ -114,7 +114,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 9:1-4,17-19; Tv 21:2-3,4-5,6-7; Mc 2:13-17"
       },
       {
@@ -123,7 +123,7 @@
         "season": "TN-2",
         "clothes":"",
         "name": "Chúa Nhật thứ Hai Mùa Quanh Năm",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 3:3-10,19; Tv 40:2-4,7-8,8-9,10; 1 Cr 6:13-15,17-20; Ga 1:35-42"
       },
       {
@@ -132,7 +132,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 15:16-23; Tv 50:8-9,16-17,21,23; Mc 2:18-22"
       },
       {
@@ -141,7 +141,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 16:1-13; Tv 89:20,21-22,27-28; Mc 2:23-28"
       },
       {
@@ -150,7 +150,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Antôn, Ab",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 17:32-33,37,40-51; Tv 144:1,2,9-10; Mc 3:1-6"
       },
       {
@@ -159,7 +159,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 18:6-9; Tv 56:2-3,9-10,10-12,13-14; Mc 3:7-12"
       },
       {
@@ -168,7 +168,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 24:3-21; Tv 57:2,3-4,6,11; Mc 3:13-19"
       },
       {
@@ -177,7 +177,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 1:1-4,11-12,19,23-27; Tv 80:2-3,5-7; Mc 3:20-21"
       },
       {
@@ -186,7 +186,7 @@
         "season": "TN-3",
         "clothes":"",
         "name": "Chúa Nhật thứ Ba Mùa Quanh Năm",
-        "des": 0,
+        "desId": 1,
         "book":"St 3:1-5,10; Tv 25:4-5,6-7,8-9; 1 Cr 7:29-31; Mc 1:14-20"
       },
       {
@@ -195,7 +195,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 5:1-7,10; Tv 89:20,21-22,25-26; Mc 3:22-30"
       },{
         "code": "20240123",
@@ -203,7 +203,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 6:12-15,17-19; Tv 24:7,8,9,10; Mc 3:31-35"
       },
       {
@@ -212,7 +212,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Phanxicô đệ Salê, Gmtsht",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 7:4-17; Tv 89:4-5,27-28,29-30; Mc 4:1-20"
       },
       {
@@ -221,7 +221,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Phaolô, Tông Đồ trở lại",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 7:18-19,24-29; Tv 132:1-2,3-5,11,12,13-14; Mc 4:21-25"
       },
       {
@@ -230,7 +230,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Timôthêô và Titô, Gm",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 11:1-4,5-10,13-17; Tv 51:3-4,5-6,6-7,10-11; Mc 4:26-34"
       },
       {
@@ -239,7 +239,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 12:1-7,10-17; Tv 51:12-13,14-15,16-17; Mc 4:35-41"
       },
       {
@@ -248,7 +248,7 @@
         "season": "TN-4",
         "clothes":"",
         "name": "Chúa Nhật thứ Tư Mùa Quanh Năm",
-        "des": 0,
+        "desId": 1,
         "book":"Đnl 18:15-20; Tv 95:1-2,6-7,7-9; 1 Cr 7:32-35; Mc 1:21-28"
       },
       {
@@ -257,7 +257,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 15:13-14,30; Tv 3:2-3,4-5,6-7; Mc 5:1-20"
       },
       {
@@ -266,7 +266,7 @@
         "season": "TN",
         "clothes":"",
         "name": "",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 18:9-10,14,24-25,30-19; Tv 86:1-2,3-4,5-6; Mc 5:21-43"
       },
       {
@@ -275,7 +275,7 @@
         "season": "TN",
         "clothes":"",
         "name": "Thánh Gioan Bosco, Lm",
-        "des": 0,
+        "desId": 1,
         "book":"Sm 24:2,9-17; Tv 32:1-2,5,6,7; Mc 6:1-6"        
       }
 ]
