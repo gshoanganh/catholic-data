@@ -1,40 +1,10 @@
 [
     {
-        "info":"L,N,C,T",
+        "info": "L,N,C,T",
         "L": "Lịch Công Giáo",
         "N": "Katholic nhắc nhở bạn",
         "C": "Ăn Chay",
         "T": "Ăn Chay, Kiêng Thịt"
-    },
-    {
-        "id": 1000,
-        "date": "2024-03-29 11:00",
-        "des": "Test 1",
-        "title": "T"
-    },
-    {
-        "id": 1001,
-        "date": "2024-03-29 11:00",
-        "des": "Test 2",
-        "title": "T"
-    },
-    {
-        "id": 1002,
-        "date": "2024-03-29 11:00",
-        "des": "Test 3",
-        "title": "T"
-    },
-    {
-        "id": 1003,
-        "date": "2024-03-29 11:00",
-        "des": "Test 4",
-        "title": "T"
-    },
-    {
-        "id": 1004,
-        "date": "2024-03-29 11:00",
-        "des": "Test 5",
-        "title": "T"
     },
     {
         "id": 1,
