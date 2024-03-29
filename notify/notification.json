@@ -1,0 +1,128 @@
+[
+    {
+        "L":"Lịch Công Giáo",
+        "N":"Katholic nhắc nhở bạn",
+        "C":"Ăn Chay",
+        "T":"Ăn Chay, Kiêng Thịt"
+    },
+    {
+        "id": 1,
+        "date": "2024-03-29 05:30",
+        "des":"Đừng quên giữ luật ăn chay, kiêng thịt",
+        "title":"T"
+    },
+    {
+        "id": 2,
+        "date": "2024-03-29 05:30",
+        "des":"Buổi chiều và tối có đi đàng thánh giá",
+        "title":"N"
+    },
+    {
+        "id": 3,
+        "date": "2024-03-30 05:30",
+        "des":"Thánh lễ Vọng Phục sinh, nhớ mang theo nến",
+        "title":"L"
+    },
+    {
+        "id": 4,
+        "date": "2024-03-31 05:30",
+        "des":"Chúa nhật 1, Đại lễ Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 5,
+        "date": "2024-04-01 05:30",
+        "des":"Ngày thứ 1, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 6,
+        "date": "2024-04-02 05:30",
+        "des":"Ngày thứ 2, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 7,
+        "date": "2024-04-03 05:30",
+        "des":"Ngày thứ 3, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 8,
+        "date": "2024-04-04 05:30",
+        "des":"Ngày thứ 4, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 9,
+        "date": "2024-04-05 05:30",
+        "des":"Ngày thứ 5, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 10,
+        "date": "2024-04-06 05:30",
+        "des":"Ngày thứ 6, Bát Nhật Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 11,
+        "date": "2024-04-07 05:30",
+        "des":"Chúa Nhật 2 Phục Sinh",
+        "title":"L"
+    },
+    {
+        "id": 12,
+        "date": "2024-04-08 05:30",
+        "des":"Lễ Truyền Tin cho Đức Mẹ",
+        "title":"L"
+    },
+    {
+        "id": 13,
+        "date": "2024-04-09 05:30",
+        "des":"Đầu tháng âm lịch, ngày 1/3 âm lịch",
+        "title":"L"
+    },
+    {
+        "id": 14,
+        "date": "2024-04-18 05:30",
+        "des":"Nghỉ lễ Giỗ tổ Hùng Vương 10/3 âm lịch",
+        "title":"L"
+    },
+    {
+        "id": 15,
+        "date": "2024-04-21 05:30",
+        "des":"Ngày Sách Việt Nam",
+        "title":"L"
+    },
+    {
+        "id": 16,
+        "date": "2024-04-22 05:30",
+        "des":"Ngày Trái Đất",
+        "title":"L"
+    },
+    {
+        "id": 17,
+        "date": "2024-04-23 05:30",
+        "des":"Ngày Trăng tròn 15/3 âm lịch",
+        "title":"L"
+    },
+    {
+        "id": 18,
+        "date": "2024-04-30 05:30",
+        "des":"Nghỉ lễ Ngày giải phóng Miền Nam, thống nhất đất nước 30/4",
+        "title":"L"
+    },
+    {
+        "id": 19,
+        "date": "2024-05-01 05:30",
+        "des":"Nghỉ lễ Quốc tế lao động 1/5",
+        "title":"L"
+    },
+    {
+        "id": 20,
+        "date": "2024-05-01 05:30",
+        "des":"Mở đầu tháng Kính Đức Mẹ",
+        "title":"N"
+    }
+]
