@@ -41,7 +41,7 @@
       "season": "PS-6",
       "clothes": "Tr",
       "name": "Chúa Nhật thứ Sáu Mùa Phục Sinh",
-      "desId": 1,
+      "desId": 16,
       "book": "Cv 10:25-26,34-35,44-48; Tv 98:1,2-3,3-4; 1 Ga 4:7-10; Ga 15:9-17"
     },
     {
@@ -77,7 +77,7 @@
       "season": "PS",
       "clothes": "Tr",
       "name": "Lễ Thăng Thiên",
-      "desId": 1,
+      "desId": 23,
       "book": "Cv 18:1-8; Ga 16:16-20"
     },
     {
@@ -104,7 +104,7 @@
       "season": "PS-7",
       "clothes": "Tr",
       "name": "Chúa Nhật thứ Bảy Mùa Phục Sinh",
-      "desId": 1,
+      "desId": 16,
       "book": "Cv 1:15-17,20,20-26; Tv 103:1-2,11-12,19-20; 1 Ga 4:11-16; Ga 17:11-19"
     },
     {
@@ -167,7 +167,7 @@
       "season": "PS-8",
       "clothes": "Do",
       "name": "Lễ Chúa Thánh Thần Hiện Xuống",
-      "desId": 1,
+      "desId": 25,
       "book": "St 11:1-9; Xh 19:3-8,16-20; Ed 37:1-14; Ge 3:1-5; Tv 104:1-2,24-35,27-28,29-30; Rm 8:22-27; Ga 7:37-39-2; Tv 104:1-24,29-30,31-34; 1 Cr 12:3-7,12-13; Ga 20:19-23; Cv 2:1-11; Tv 104:1-24,29-30,31-34; Gl 5:16-25; Ga 15:26-27"
     },
     {
@@ -229,7 +229,7 @@
       "season": "TN-12",
       "clothes": "Tr",
       "name": "Lễ Chúa Ba Ngôi",
-      "desId": 1,
+      "desId": 27,
       "book": "Đnl 4:32-34,39-40; Tv 33:4-5,6-9,18-19,20-22; Rm 8:14-17; Mt 28:16-20"
     },
     {
@@ -275,7 +275,7 @@
       "season": "TN",
       "clothes": "X",
       "name": "Đức Mẹ thăm viếng Bà Thánh Isave",
-      "desId": 1,
+      "desId": 28,
       "book": "Pr 4:7-13; Tv 96:10,11-12,13; Mc 11:11-26"
     }
   ]
