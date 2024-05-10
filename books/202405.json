@@ -20,7 +20,7 @@
                 ]
             },
             {
-              "xuong": [
+                "xuong": [
                     "Câu Xướng Trước Phúc Âm: Ga 16, 28",
                     "Alleluia, alleluia! – Thầy bởi Cha mà ra, và đã đến trong thế gian; bây giờ Thầy lại bỏ thế gian mà về cùng Cha. – Alleluia."
                 ],
@@ -32,7 +32,7 @@
             }
         ]
     },
-  {
+    {
         "code": "20240510",
         "books": [
             {
@@ -62,6 +62,35 @@
         ]
     },
     {
+        "code": "20240511",
+        "books": [
+            {
+                "title": "Bài đọc 1: Cv 18, 23-28",
+                "sub": "“Apollô trưng Thánh Kinh để minh chứng Đức Giêsu là Đấng Kitô”.",
+                "book": "Trích sách Tông đồ Công vụ.",
+                "content": "Sau khi ở lại Antiôkia ít lâu, Phaolô ra đi, lần lượt ngài đi qua các vùng Galata và Phrygia, làm cho tất cả môn đồ thêm vững mạnh.\nBấy giờ có một người Do-thái tên là Apollô, quê ở Alexan-dria, rất lợi khẩu và thông biết Thánh Kinh, ông đến Êphêxô. Ông đã học thông đạo Chúa; ông nhiệt tâm rao giảng và siêng năng dạy những điều về Đức Kitô, mặc dầu ông chỉ biết phép rửa của Gioan. Vì thế ông bắt đầu hành động mạnh dạn trong hội đường. Khi Priscilla và Aquila nghe ông, liền đón ông (về nhà) và trình bày cặn kẻ hơn cho ông biết đạo Chúa. Ông muốn sang Akaia, thì các anh em khuyến khích ông và viết thơ cho các môn đồ xin họ tiếp đón ông. Đến nơi, ông đã giúp các tín hữu rất nhiều, vì ông đã công khai phi bác những người Do-thái cách hùng hồn; ông trưng Thánh Kinh để minh chứng Đức Giêsu là Đấng Kitô.\nĐó là lời Chúa.",
+                "smallTitle": "",
+                "smallContent": ""
+            },
+            {
+                "title": "Đáp ca: Tv 46, 2-3. 8-9. 10",
+                "dap": "Thiên Chúa là Vua khắp cõi trần gian (c. 8a).",
+                "xuong": [
+                    "1) Hết thảy chư dân, hãy vỗ tay, hãy reo mừng Thiên Chúa tiếng reo vui! Vì Chúa là Đấng Tối cao, khả uý, Người là Đại Đế trên khắp trần gian. - Đáp.",
+                    "2) Vì Thiên Chúa là Vua khắp cõi trần gian, hãy xướng ca vịnh mừng Người, Thiên Chúa thống trị trên các nước, Thiên Chúa ngự trên ngai thánh của Người. - Đáp.",
+                    "3) Vua chúa của chư dân, đã nhập đoàn với dân riêng Thiên Chúa của Abraham. Vì các vua chúa địa cầu thuộc quyền Thiên Chúa: Người là Đấng muôn phần cao cả! - Đáp."
+                ]
+            },
+            {
+                "title": "Tin mừng: Ga 16,23-28",
+                "sub": "",
+                "book": "",
+                "content": "Ngày ấy, anh em không còn phải hỏi Thầy gì nữa. Thật, Thầy bảo thật anh em: anh em mà xin Chúa Cha điều gì, thì Người sẽ ban cho anh em nhân danh Thầy.\nCho đến nay, anh em đã chẳng xin gì nhân danh Thầy. Cứ xin đi, anh em sẽ được, để niềm vui của anh em nên trọn vẹn. Thầy đã dùng dụ ngôn mà nói những điều ấy với anh em.\nSẽ đến giờ Thầy không còn dùng dụ ngôn mà nói với anh em nữa, nhưng Thầy sẽ nói rõ cho anh em về Chúa Cha, không còn úp mở.\nNgày ấy, anh em sẽ nhân danh Thầy mà xin, và Thầy không nói với anh em là Thầy sẽ cầu xin Chúa Cha cho anh em. Thật vậy, chính Chúa Cha yêu mến anh em, vì anh em đã yêu mến Thầy, và tin rằng Thầy từ Thiên Chúa mà đến.\nThầy từ Chúa Cha mà đến và Thầy đã đến thế gian. Thầy lại bỏ thế gian mà đến cùng Chúa Cha.",
+                "song": null
+            }
+        ]
+    },
+    {
         "code": "20240512",
         "books": [
             {
@@ -80,7 +109,8 @@
                     "2) Nhưng cũng như trời xanh cao vượt trên trái đất, lòng nhân Người còn siêu việt hơn thế trên kẻ kính sợ Người. Cũng như từ đông sang tây xa vời vợi, Người đã ném tội lỗi xa khỏi chúng tôi.- Đáp.",
                     "3) Chúa thiết lập ngai vàng Người ở cõi cao xanh, và vương quyền Người phủ trị trên khắp muôn loài. Hãy chúc tụng Chúa đi, chư vị thiên thần, dũng lực hùng anh thi hành lời Chúa.- Đáp."
                 ]
-            }, {
+            },
+            {
                 "title": "Bài đọc 2: 1 Ga 4, 11-16",
                 "sub": "“Ai ở trong tình yêu, thì ở trong Thiên Chúa, và Thiên Chúa ở trong người ấy”.",
                 "book": "Trích thư thứ nhất của Thánh Gioan Tông đồ.",
@@ -89,7 +119,10 @@
                 "smallContent": ""
             },
             {
-                "xuong": ["Xướng Tin mừng: Ga 14, 18; 16, 22","Alleluia, alleluia! – Chúa phán: “Thầy sẽ không bỏ các con mồ côi: Thầy sẽ đến với các con và lòng các con sẽ vui mừng”. – Alleluia."],
+                "xuong": [
+                    "Xướng Tin mừng: Ga 14, 18; 16, 22",
+                    "Alleluia, alleluia! – Chúa phán: “Thầy sẽ không bỏ các con mồ côi: Thầy sẽ đến với các con và lòng các con sẽ vui mừng”. – Alleluia."
+                ],
                 "title": "Tin mừng: Ga 17, 11b-19",
                 "sub": "“Ðể chúng được nên một như Ta”.",
                 "book": "Tin Mừng Chúa Giêsu Kitô theo Thánh Gioan.",
