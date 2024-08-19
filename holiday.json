@@ -2,9 +2,25 @@
     "version": 1,
     "holidays": [
         {
-            "code": "20240901",
+            "code": "20240831",
             "again": null,
-            "name": "Lễ Quốc khánh",
+            "name": "Bắt đầu nghỉ Lễ Quốc khánh kéo dài 4 ngày",
+            "markColor": "red",
+            "background":"gray",
+            "lunar": false
+        },
+        {
+            "code": "20240902",
+            "again": null,
+            "name": "Lễ Quốc khánh (lần 1)",
+            "markColor": "red",
+            "background":"gray",
+            "lunar": false
+        },
+        {
+            "code": "20240903",
+            "again": null,
+            "name": "Lễ Quốc khánh (lần 2)",
             "markColor": "red",
             "background":"gray",
             "lunar": false
