@@ -2,7 +2,7 @@
     {
       "code": "20241101",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -11,7 +11,7 @@
     {
       "code": "20241102",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -20,7 +20,7 @@
     {
       "code": "20241103",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -29,7 +29,7 @@
     {
       "code": "20241104",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -38,7 +38,7 @@
     {
       "code": "20241105",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -47,7 +47,7 @@
     {
       "code": "20241106",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -56,7 +56,7 @@
     {
       "code": "20241107",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -65,7 +65,7 @@
     {
       "code": "20241108",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -74,7 +74,7 @@
     {
       "code": "20241109",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -83,7 +83,7 @@
     {
       "code": "20241110",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -92,7 +92,7 @@
     {
       "code": "20241111",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -101,7 +101,7 @@
     {
       "code": "20241112",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -110,7 +110,7 @@
     {
       "code": "20241113",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -119,7 +119,7 @@
     {
       "code": "20241114",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -128,7 +128,7 @@
     {
       "code": "20241115",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -137,7 +137,7 @@
     {
       "code": "20241116",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -146,7 +146,7 @@
     {
       "code": "20241117",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -155,7 +155,7 @@
     {
       "code": "20241118",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -164,7 +164,7 @@
     {
       "code": "20241119",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -173,7 +173,7 @@
     {
       "code": "20241120",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -182,7 +182,7 @@
     {
       "code": "20241121",
       "type": "",
-      "season": "MC",
+      "season": "TN",
       "clothes": "",
       "name": "",
       "desId": 1,
@@ -191,72 +191,81 @@
     {
       "code": "20241122",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "Do",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 10:8-11; Tv 19:45-48"
     }, {
       "code": "20241123",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 11:4-12; Tv 144:1,2,9-10; Lc 20:27-40"
     },
     {
       "code": "20241124",
       "type": "",
-      "season": "MC",
-      "clothes": "",
-      "name": "",
+      "season": "TN",
+      "clothes": "T",
+      "name": "Lễ Chúa Kitô Vua",
       "desId": 1,
-      "book": ""
+      "book": "Đn 7:13-14; Tv 93:1,1-2,5; Kh 1:5-8; Ga 18:33-37"
     },
     {
       "code": "20241125",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 14:1-3,4-5; Tv 24:1-2,3-4,5-6; Lc 21:1-4"
     },
     {
       "code": "20241126",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 14:14-19; Tv 96:10,11-12,13; Lc 21:5-11"
     },
     {
       "code": "20241127",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 15:1-4; Tv 98:1,2-3,7-8,9; Lc 21:12-19"
     },
     {
       "code": "20241128",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 18:1-2,21-23; Tv 100:2,3,4,5; Lc 21:20-28"
     },
     {
       "code": "20241129",
       "type": "",
-      "season": "MC",
-      "clothes": "",
+      "season": "TN",
+      "clothes": "X",
       "name": "",
       "desId": 1,
-      "book": ""
+      "book": "Kh 20:1-4,11-21; Tv 84:3,4,5-6,8; Lc 21:29-33"
+    },
+    {
+      "code": "20241130",
+      "type": "",
+      "season": "TN",
+      "clothes": "Do",
+      "name": "",
+      "desId": 1,
+      "book": "Kh 22:1-7; Tv 95:1-2,3-5,6-7; Lc 21:34-36"
     }
   ]
