@@ -1,38 +1,5 @@
 [
     {
-        "year": 2023,
-        "items": [
-            {
-                "code": "20231203",
-                "day": 6,
-                "name": "Lễ Thánh Phanxicô Xaviê",
-                "sub": "Lễ kính, CN I - Mùa Vọng",
-                "desId": 2
-            },
-            {
-                "code": "20231208",
-                "day": 4,
-                "name": "Lễ Đức Mẹ Vô nhiễm Nguyên Tội",
-                "sub": "Lễ trọng - Mùa Vọng",
-                "desId": 3
-            },
-            {
-                "code": "20231225",
-                "day": 0,
-                "name": "Lễ Chúa Giáng Sinh",
-                "sub": "Lễ trọng và buộc. Lễ kiêng việc xác",
-                "desId": 4
-            },
-            {
-                "code": "20231231",
-                "day": 6,
-                "name": "Lễ Thánh Gia",
-                "sub": "Lễ kính",
-                "desId": 5
-            }
-        ]
-    },
-    {
         "year": 2024,
         "items": [
             {
